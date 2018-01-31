@@ -1,0 +1,7 @@
+E:\softUni projects\extended\list and array\List and array ext\Anonymous thread\bin\Debug\Anonymous thread.exe.config
+E:\softUni projects\extended\list and array\List and array ext\Anonymous thread\bin\Debug\Anonymous thread.exe
+E:\softUni projects\extended\list and array\List and array ext\Anonymous thread\bin\Debug\Anonymous thread.pdb
+E:\softUni projects\extended\list and array\List and array ext\Anonymous thread\obj\Debug\Anonymous thread.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\list and array\List and array ext\Anonymous thread\obj\Debug\Anonymous thread.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\list and array\List and array ext\Anonymous thread\obj\Debug\Anonymous thread.exe
+E:\softUni projects\extended\list and array\List and array ext\Anonymous thread\obj\Debug\Anonymous thread.pdb

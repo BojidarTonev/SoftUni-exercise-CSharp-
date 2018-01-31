@@ -1,0 +1,6 @@
+E:\softUni projects\extended exam\ConsoleApp1\Rainer\bin\Debug\Rainer.exe.config
+E:\softUni projects\extended exam\ConsoleApp1\Rainer\bin\Debug\Rainer.exe
+E:\softUni projects\extended exam\ConsoleApp1\Rainer\bin\Debug\Rainer.pdb
+E:\softUni projects\extended exam\ConsoleApp1\Rainer\obj\Debug\Rainer.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended exam\ConsoleApp1\Rainer\obj\Debug\Rainer.exe
+E:\softUni projects\extended exam\ConsoleApp1\Rainer\obj\Debug\Rainer.pdb

@@ -1,0 +1,7 @@
+E:\softUni projects\extended\list and array\List and array ext\List and array ext\obj\Debug\List and array ext.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\list and array\List and array ext\List and array ext\obj\Debug\List and array ext.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\list and array\List and array ext\List and array ext\bin\Debug\List and array ext.exe.config
+E:\softUni projects\extended\list and array\List and array ext\List and array ext\bin\Debug\List and array ext.exe
+E:\softUni projects\extended\list and array\List and array ext\List and array ext\bin\Debug\List and array ext.pdb
+E:\softUni projects\extended\list and array\List and array ext\List and array ext\obj\Debug\List and array ext.exe
+E:\softUni projects\extended\list and array\List and array ext\List and array ext\obj\Debug\List and array ext.pdb

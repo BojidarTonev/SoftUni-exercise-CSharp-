@@ -1,0 +1,7 @@
+E:\softUni projects\extended exam\ConsoleApp1\RainCast\bin\Debug\RainCast.exe.config
+E:\softUni projects\extended exam\ConsoleApp1\RainCast\bin\Debug\RainCast.exe
+E:\softUni projects\extended exam\ConsoleApp1\RainCast\bin\Debug\RainCast.pdb
+E:\softUni projects\extended exam\ConsoleApp1\RainCast\obj\Debug\RainCast.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended exam\ConsoleApp1\RainCast\obj\Debug\RainCast.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended exam\ConsoleApp1\RainCast\obj\Debug\RainCast.exe
+E:\softUni projects\extended exam\ConsoleApp1\RainCast\obj\Debug\RainCast.pdb

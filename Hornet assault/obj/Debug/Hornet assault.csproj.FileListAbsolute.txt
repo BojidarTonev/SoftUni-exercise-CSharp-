@@ -1,0 +1,6 @@
+E:\softUni projects\extended\list and array\List and array ext\Hornet assault\bin\Debug\Hornet assault.exe.config
+E:\softUni projects\extended\list and array\List and array ext\Hornet assault\bin\Debug\Hornet assault.exe
+E:\softUni projects\extended\list and array\List and array ext\Hornet assault\bin\Debug\Hornet assault.pdb
+E:\softUni projects\extended\list and array\List and array ext\Hornet assault\obj\Debug\Hornet assault.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\list and array\List and array ext\Hornet assault\obj\Debug\Hornet assault.exe
+E:\softUni projects\extended\list and array\List and array ext\Hornet assault\obj\Debug\Hornet assault.pdb

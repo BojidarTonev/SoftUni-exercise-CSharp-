@@ -1,0 +1,7 @@
+E:\softUni projects\extended\list and array\List and array ext\Icarus\bin\Debug\Icarus.exe.config
+E:\softUni projects\extended\list and array\List and array ext\Icarus\bin\Debug\Icarus.exe
+E:\softUni projects\extended\list and array\List and array ext\Icarus\bin\Debug\Icarus.pdb
+E:\softUni projects\extended\list and array\List and array ext\Icarus\obj\Debug\Icarus.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\list and array\List and array ext\Icarus\obj\Debug\Icarus.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\list and array\List and array ext\Icarus\obj\Debug\Icarus.exe
+E:\softUni projects\extended\list and array\List and array ext\Icarus\obj\Debug\Icarus.pdb

@@ -1,0 +1,7 @@
+E:\softUni projects\extended exam\ConsoleApp1\RainAir\bin\Debug\RainAir.exe.config
+E:\softUni projects\extended exam\ConsoleApp1\RainAir\bin\Debug\RainAir.exe
+E:\softUni projects\extended exam\ConsoleApp1\RainAir\bin\Debug\RainAir.pdb
+E:\softUni projects\extended exam\ConsoleApp1\RainAir\obj\Debug\RainAir.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended exam\ConsoleApp1\RainAir\obj\Debug\RainAir.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended exam\ConsoleApp1\RainAir\obj\Debug\RainAir.exe
+E:\softUni projects\extended exam\ConsoleApp1\RainAir\obj\Debug\RainAir.pdb
