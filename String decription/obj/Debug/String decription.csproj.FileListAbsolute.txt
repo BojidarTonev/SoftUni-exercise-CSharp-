@@ -1,0 +1,6 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\String decription\bin\Debug\String decription.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\String decription\bin\Debug\String decription.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\String decription\bin\Debug\String decription.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\String decription\obj\Debug\String decription.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\String decription\obj\Debug\String decription.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\String decription\obj\Debug\String decription.pdb

@@ -1,0 +1,6 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Miners Task\bin\Debug\Miners Task.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Miners Task\bin\Debug\Miners Task.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Miners Task\bin\Debug\Miners Task.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Miners Task\obj\Debug\Miners Task.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Miners Task\obj\Debug\Miners Task.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Miners Task\obj\Debug\Miners Task.pdb

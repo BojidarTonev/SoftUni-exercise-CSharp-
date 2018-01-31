@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Los Aggregator\bin\Debug\Los Aggregator.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Los Aggregator\bin\Debug\Los Aggregator.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Los Aggregator\bin\Debug\Los Aggregator.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Los Aggregator\obj\Debug\Los Aggregator.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Los Aggregator\obj\Debug\Los Aggregator.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Los Aggregator\obj\Debug\Los Aggregator.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Los Aggregator\obj\Debug\Los Aggregator.pdb

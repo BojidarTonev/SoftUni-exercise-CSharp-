@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\LinQuistics\bin\Debug\LinQuistics.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\LinQuistics\bin\Debug\LinQuistics.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\LinQuistics\bin\Debug\LinQuistics.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\LinQuistics\obj\Debug\LinQuistics.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\LinQuistics\obj\Debug\LinQuistics.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\LinQuistics\obj\Debug\LinQuistics.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\LinQuistics\obj\Debug\LinQuistics.pdb

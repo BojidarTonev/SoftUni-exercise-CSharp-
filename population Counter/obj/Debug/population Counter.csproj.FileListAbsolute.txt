@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\population Counter\bin\Debug\population Counter.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\population Counter\bin\Debug\population Counter.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\population Counter\bin\Debug\population Counter.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\population Counter\obj\Debug\population Counter.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\population Counter\obj\Debug\population Counter.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\population Counter\obj\Debug\population Counter.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\population Counter\obj\Debug\population Counter.pdb

@@ -1,0 +1,6 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Average student grades\bin\Debug\Average student grades.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Average student grades\bin\Debug\Average student grades.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Average student grades\bin\Debug\Average student grades.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Average student grades\obj\Debug\Average student grades.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Average student grades\obj\Debug\Average student grades.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Average student grades\obj\Debug\Average student grades.pdb

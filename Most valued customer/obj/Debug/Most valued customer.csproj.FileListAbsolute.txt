@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Most valued customer\bin\Debug\Most valued customer.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Most valued customer\bin\Debug\Most valued customer.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Most valued customer\bin\Debug\Most valued customer.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Most valued customer\obj\Debug\Most valued customer.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Most valued customer\obj\Debug\Most valued customer.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Most valued customer\obj\Debug\Most valued customer.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Most valued customer\obj\Debug\Most valued customer.pdb

@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Phoenix oscar\bin\Debug\Phoenix oscar.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Phoenix oscar\bin\Debug\Phoenix oscar.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Phoenix oscar\bin\Debug\Phoenix oscar.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Phoenix oscar\obj\Debug\Phoenix oscar.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Phoenix oscar\obj\Debug\Phoenix oscar.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Phoenix oscar\obj\Debug\Phoenix oscar.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Phoenix oscar\obj\Debug\Phoenix oscar.pdb

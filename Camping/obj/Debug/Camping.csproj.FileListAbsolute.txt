@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Camping\bin\Debug\Camping.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Camping\bin\Debug\Camping.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Camping\bin\Debug\Camping.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Camping\obj\Debug\Camping.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Camping\obj\Debug\Camping.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Camping\obj\Debug\Camping.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Camping\obj\Debug\Camping.pdb

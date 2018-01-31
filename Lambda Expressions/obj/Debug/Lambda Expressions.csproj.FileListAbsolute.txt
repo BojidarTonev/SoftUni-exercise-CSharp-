@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Lambda Expressions\bin\Debug\Lambda Expressions.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Lambda Expressions\bin\Debug\Lambda Expressions.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Lambda Expressions\bin\Debug\Lambda Expressions.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Lambda Expressions\obj\Debug\Lambda Expressions.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Lambda Expressions\obj\Debug\Lambda Expressions.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Lambda Expressions\obj\Debug\Lambda Expressions.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Lambda Expressions\obj\Debug\Lambda Expressions.pdb

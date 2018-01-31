@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Legendary farmingg\bin\Debug\Legendary farmingg.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Legendary farmingg\bin\Debug\Legendary farmingg.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Legendary farmingg\bin\Debug\Legendary farmingg.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Legendary farmingg\obj\Debug\Legendary farmingg.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Legendary farmingg\obj\Debug\Legendary farmingg.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Legendary farmingg\obj\Debug\Legendary farmingg.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Legendary farmingg\obj\Debug\Legendary farmingg.pdb

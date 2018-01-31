@@ -1,0 +1,6 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Cities by continent and country\bin\Debug\Cities by continent and country.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Cities by continent and country\bin\Debug\Cities by continent and country.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Cities by continent and country\bin\Debug\Cities by continent and country.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Cities by continent and country\obj\Debug\Cities by continent and country.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Cities by continent and country\obj\Debug\Cities by continent and country.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Cities by continent and country\obj\Debug\Cities by continent and country.pdb

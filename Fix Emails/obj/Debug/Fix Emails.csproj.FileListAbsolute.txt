@@ -1,0 +1,6 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Fix Emails\bin\Debug\Fix Emails.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Fix Emails\bin\Debug\Fix Emails.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Fix Emails\bin\Debug\Fix Emails.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Fix Emails\obj\Debug\Fix Emails.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Fix Emails\obj\Debug\Fix Emails.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Fix Emails\obj\Debug\Fix Emails.pdb

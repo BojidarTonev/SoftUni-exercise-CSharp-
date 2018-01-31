@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\pokemon evolution\bin\Debug\pokemon evolution.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\pokemon evolution\bin\Debug\pokemon evolution.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\pokemon evolution\bin\Debug\pokemon evolution.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\pokemon evolution\obj\Debug\pokemon evolution.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\pokemon evolution\obj\Debug\pokemon evolution.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\pokemon evolution\obj\Debug\pokemon evolution.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\pokemon evolution\obj\Debug\pokemon evolution.pdb

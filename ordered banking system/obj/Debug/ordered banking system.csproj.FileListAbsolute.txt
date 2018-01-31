@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\ordered banking system\bin\Debug\ordered banking system.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\ordered banking system\bin\Debug\ordered banking system.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\ordered banking system\bin\Debug\ordered banking system.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\ordered banking system\obj\Debug\ordered banking system.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\ordered banking system\obj\Debug\ordered banking system.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\ordered banking system\obj\Debug\ordered banking system.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\ordered banking system\obj\Debug\ordered banking system.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Dragon army\bin\Debug\Dragon army.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Dragon army\bin\Debug\Dragon army.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Dragon army\bin\Debug\Dragon army.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Dragon army\obj\Debug\Dragon army.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Dragon army\obj\Debug\Dragon army.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Dragon army\obj\Debug\Dragon army.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Dragon army\obj\Debug\Dragon army.pdb

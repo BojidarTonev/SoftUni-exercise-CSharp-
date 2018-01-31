@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Trainlands\bin\Debug\Trainlands.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Trainlands\bin\Debug\Trainlands.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Trainlands\bin\Debug\Trainlands.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Trainlands\obj\Debug\Trainlands.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Trainlands\obj\Debug\Trainlands.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Trainlands\obj\Debug\Trainlands.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Trainlands\obj\Debug\Trainlands.pdb

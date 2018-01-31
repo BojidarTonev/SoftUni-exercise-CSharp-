@@ -1,0 +1,7 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Hornet Armada\bin\Debug\Hornet Armada.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Hornet Armada\bin\Debug\Hornet Armada.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Hornet Armada\bin\Debug\Hornet Armada.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Hornet Armada\obj\Debug\User Logs.csprojResolveAssemblyReference.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Hornet Armada\obj\Debug\User Logs.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Hornet Armada\obj\Debug\Hornet Armada.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Hornet Armada\obj\Debug\Hornet Armada.pdb

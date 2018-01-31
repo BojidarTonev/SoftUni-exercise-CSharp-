@@ -1,0 +1,6 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Sum min max average\bin\Debug\Sum min max average.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Sum min max average\bin\Debug\Sum min max average.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Sum min max average\bin\Debug\Sum min max average.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Sum min max average\obj\Debug\Sum min max average.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Sum min max average\obj\Debug\Sum min max average.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Sum min max average\obj\Debug\Sum min max average.pdb

@@ -1,0 +1,6 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\Array data\bin\Debug\Array data.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\Array data\bin\Debug\Array data.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Array data\bin\Debug\Array data.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\Array data\obj\Debug\Array data.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\Array data\obj\Debug\Array data.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\Array data\obj\Debug\Array data.pdb

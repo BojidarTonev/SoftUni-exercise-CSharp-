@@ -1,0 +1,6 @@
+E:\softUni projects\extended\Dict and lambda\Phonebook\odd occurances\bin\Debug\odd occurances.exe.config
+E:\softUni projects\extended\Dict and lambda\Phonebook\odd occurances\bin\Debug\odd occurances.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\odd occurances\bin\Debug\odd occurances.pdb
+E:\softUni projects\extended\Dict and lambda\Phonebook\odd occurances\obj\Debug\odd occurances.csproj.CoreCompileInputs.cache
+E:\softUni projects\extended\Dict and lambda\Phonebook\odd occurances\obj\Debug\odd occurances.exe
+E:\softUni projects\extended\Dict and lambda\Phonebook\odd occurances\obj\Debug\odd occurances.pdb
