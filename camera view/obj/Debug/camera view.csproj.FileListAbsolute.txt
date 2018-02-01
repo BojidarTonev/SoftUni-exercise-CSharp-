@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\regex exercise\camera view\bin\Debug\camera view.exe.config
+E:\softUni projects\programming fund\regEx\regex exercise\camera view\bin\Debug\camera view.exe
+E:\softUni projects\programming fund\regEx\regex exercise\camera view\bin\Debug\camera view.pdb
+E:\softUni projects\programming fund\regEx\regex exercise\camera view\obj\Debug\camera view.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\regex exercise\camera view\obj\Debug\camera view.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\regex exercise\camera view\obj\Debug\camera view.exe
+E:\softUni projects\programming fund\regEx\regex exercise\camera view\obj\Debug\camera view.pdb

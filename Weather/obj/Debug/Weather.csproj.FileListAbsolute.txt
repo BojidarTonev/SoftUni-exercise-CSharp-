@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\regex exercise\Weather\bin\Debug\Weather.exe.config
+E:\softUni projects\programming fund\regEx\regex exercise\Weather\bin\Debug\Weather.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Weather\bin\Debug\Weather.pdb
+E:\softUni projects\programming fund\regEx\regex exercise\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Weather\obj\Debug\Weather.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Weather\obj\Debug\Weather.pdb

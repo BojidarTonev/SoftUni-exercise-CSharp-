@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Book library\bin\Debug\Book library.exe.config
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Book library\bin\Debug\Book library.exe
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Book library\bin\Debug\Book library.pdb
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Book library\obj\Debug\Andrey and Billard.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Book library\obj\Debug\Andrey and Billard.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Book library\obj\Debug\Book library.exe
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Book library\obj\Debug\Book library.pdb

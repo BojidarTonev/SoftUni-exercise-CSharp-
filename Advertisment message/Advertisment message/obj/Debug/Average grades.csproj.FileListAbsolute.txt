@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Advertisment message\bin\Debug\Advertisment message.exe.config
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Advertisment message\bin\Debug\Advertisment message.exe
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Advertisment message\bin\Debug\Advertisment message.pdb
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Advertisment message\obj\Debug\Average grades.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Advertisment message\obj\Debug\Average grades.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Advertisment message\obj\Debug\Advertisment message.exe
+E:\softUni projects\programming fund\Objects and classes\Advertisment message\Advertisment message\obj\Debug\Advertisment message.pdb

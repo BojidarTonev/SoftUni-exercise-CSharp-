@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\Fish statistics\bin\Debug\Fish statistics.exe.config
+E:\softUni projects\programming fund\regEx\Fish statistics\bin\Debug\Fish statistics.exe
+E:\softUni projects\programming fund\regEx\Fish statistics\bin\Debug\Fish statistics.pdb
+E:\softUni projects\programming fund\regEx\Fish statistics\obj\Debug\Fish statistics.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\Fish statistics\obj\Debug\Fish statistics.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\Fish statistics\obj\Debug\Fish statistics.exe
+E:\softUni projects\programming fund\regEx\Fish statistics\obj\Debug\Fish statistics.pdb

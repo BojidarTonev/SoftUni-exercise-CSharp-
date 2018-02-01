@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\regex exercise\Anonymous Vox\bin\Debug\Anonymous Vox.exe.config
+E:\softUni projects\programming fund\regEx\regex exercise\Anonymous Vox\bin\Debug\Anonymous Vox.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Anonymous Vox\bin\Debug\Anonymous Vox.pdb
+E:\softUni projects\programming fund\regEx\regex exercise\Anonymous Vox\obj\Debug\Anonymous Vox.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Anonymous Vox\obj\Debug\Anonymous Vox.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Anonymous Vox\obj\Debug\Anonymous Vox.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Anonymous Vox\obj\Debug\Anonymous Vox.pdb

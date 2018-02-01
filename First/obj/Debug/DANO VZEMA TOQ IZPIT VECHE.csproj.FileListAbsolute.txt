@@ -1,0 +1,7 @@
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\DANO VZEMA TOQ IZPIT VECHE\bin\Debug\DANO VZEMA TOQ IZPIT VECHE.exe.config
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\DANO VZEMA TOQ IZPIT VECHE\bin\Debug\DANO VZEMA TOQ IZPIT VECHE.exe
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\DANO VZEMA TOQ IZPIT VECHE\bin\Debug\DANO VZEMA TOQ IZPIT VECHE.pdb
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\DANO VZEMA TOQ IZPIT VECHE\obj\Debug\DANO VZEMA TOQ IZPIT VECHE.csprojResolveAssemblyReference.cache
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\DANO VZEMA TOQ IZPIT VECHE\obj\Debug\DANO VZEMA TOQ IZPIT VECHE.csproj.CoreCompileInputs.cache
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\DANO VZEMA TOQ IZPIT VECHE\obj\Debug\DANO VZEMA TOQ IZPIT VECHE.exe
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\DANO VZEMA TOQ IZPIT VECHE\obj\Debug\DANO VZEMA TOQ IZPIT VECHE.pdb

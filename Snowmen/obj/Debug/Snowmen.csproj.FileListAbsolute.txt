@@ -1,0 +1,7 @@
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\Snowmen\bin\Debug\Snowmen.exe.config
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\Snowmen\bin\Debug\Snowmen.exe
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\Snowmen\bin\Debug\Snowmen.pdb
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\Snowmen\obj\Debug\Snowmen.csprojResolveAssemblyReference.cache
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\Snowmen\obj\Debug\Snowmen.csproj.CoreCompileInputs.cache
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\Snowmen\obj\Debug\Snowmen.exe
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\Snowmen\obj\Debug\Snowmen.pdb

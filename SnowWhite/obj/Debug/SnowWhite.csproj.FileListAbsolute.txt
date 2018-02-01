@@ -1,0 +1,7 @@
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowWhite\bin\Debug\SnowWhite.exe.config
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowWhite\bin\Debug\SnowWhite.exe
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowWhite\bin\Debug\SnowWhite.pdb
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowWhite\obj\Debug\SnowWhite.csprojResolveAssemblyReference.cache
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowWhite\obj\Debug\SnowWhite.csproj.CoreCompileInputs.cache
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowWhite\obj\Debug\SnowWhite.exe
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowWhite\obj\Debug\SnowWhite.pdb

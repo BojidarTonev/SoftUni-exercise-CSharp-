@@ -1,0 +1,22 @@
+C:\Users\ghost\Desktop\Game project\Game project\bin\Debug\Game project.exe.config
+C:\Users\ghost\Desktop\Game project\Game project\bin\Debug\Game project.exe
+C:\Users\ghost\Desktop\Game project\Game project\bin\Debug\Game project.pdb
+C:\Users\ghost\Desktop\Game project\Game project\obj\Debug\Game project.csprojResolveAssemblyReference.cache
+C:\Users\ghost\Desktop\Game project\Game project\obj\Debug\Game project.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\Game project\Game project\obj\Debug\Game project.exe
+C:\Users\ghost\Desktop\Game project\Game project\obj\Debug\Game project.pdb
+C:\Users\ghost\Desktop\Game project\Game project\bin\Debug\Game project.exe.manifest
+C:\Users\ghost\Desktop\Game project\Game project\bin\Debug\Game project.application
+C:\Users\ghost\Desktop\Game project\Game project\obj\Debug\Game project.exe.manifest
+C:\Users\ghost\Desktop\Game project\Game project\obj\Debug\Game project.application
+E:\softUni projects\Game project\Game project\bin\Debug\Game project.exe.config
+E:\softUni projects\Game project\Game project\bin\Debug\Game project.exe.manifest
+E:\softUni projects\Game project\Game project\bin\Debug\Game project.application
+E:\softUni projects\Game project\Game project\bin\Debug\Game project.exe
+E:\softUni projects\Game project\Game project\bin\Debug\Game project.pdb
+E:\softUni projects\Game project\Game project\obj\Debug\Game project.csprojResolveAssemblyReference.cache
+E:\softUni projects\Game project\Game project\obj\Debug\Game project.csproj.CoreCompileInputs.cache
+E:\softUni projects\Game project\Game project\obj\Debug\Game project.exe.manifest
+E:\softUni projects\Game project\Game project\obj\Debug\Game project.application
+E:\softUni projects\Game project\Game project\obj\Debug\Game project.exe
+E:\softUni projects\Game project\Game project\obj\Debug\Game project.pdb

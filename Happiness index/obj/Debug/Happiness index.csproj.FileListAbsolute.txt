@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\Happiness index\bin\Debug\Happiness index.exe.config
+E:\softUni projects\programming fund\regEx\Happiness index\bin\Debug\Happiness index.exe
+E:\softUni projects\programming fund\regEx\Happiness index\bin\Debug\Happiness index.pdb
+E:\softUni projects\programming fund\regEx\Happiness index\obj\Debug\Happiness index.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\Happiness index\obj\Debug\Happiness index.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\Happiness index\obj\Debug\Happiness index.exe
+E:\softUni projects\programming fund\regEx\Happiness index\obj\Debug\Happiness index.pdb

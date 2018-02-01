@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\regex exercise\Valid usernames\bin\Debug\Valid usernames.exe.config
+E:\softUni projects\programming fund\regEx\regex exercise\Valid usernames\bin\Debug\Valid usernames.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Valid usernames\bin\Debug\Valid usernames.pdb
+E:\softUni projects\programming fund\regEx\regex exercise\Valid usernames\obj\Debug\Valid usernames.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Valid usernames\obj\Debug\Valid usernames.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Valid usernames\obj\Debug\Valid usernames.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Valid usernames\obj\Debug\Valid usernames.pdb

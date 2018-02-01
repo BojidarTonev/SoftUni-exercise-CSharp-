@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\regex exercise\Key Replacer\bin\Debug\Key Replacer.exe.config
+E:\softUni projects\programming fund\regEx\regex exercise\Key Replacer\bin\Debug\Key Replacer.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Key Replacer\bin\Debug\Key Replacer.pdb
+E:\softUni projects\programming fund\regEx\regex exercise\Key Replacer\obj\Debug\Key Replacer.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Key Replacer\obj\Debug\Key Replacer.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Key Replacer\obj\Debug\Key Replacer.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Key Replacer\obj\Debug\Key Replacer.pdb

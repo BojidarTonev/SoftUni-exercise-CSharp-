@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\regex exercise\Hornet comm\bin\Debug\Hornet comm.exe.config
+E:\softUni projects\programming fund\regEx\regex exercise\Hornet comm\bin\Debug\Hornet comm.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Hornet comm\bin\Debug\Hornet comm.pdb
+E:\softUni projects\programming fund\regEx\regex exercise\Hornet comm\obj\Debug\Hornet comm.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Hornet comm\obj\Debug\Hornet comm.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Hornet comm\obj\Debug\Hornet comm.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Hornet comm\obj\Debug\Hornet comm.pdb

@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\regex exercise\Trainegram\bin\Debug\Trainegram.exe.config
+E:\softUni projects\programming fund\regEx\regex exercise\Trainegram\bin\Debug\Trainegram.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Trainegram\bin\Debug\Trainegram.pdb
+E:\softUni projects\programming fund\regEx\regex exercise\Trainegram\obj\Debug\Trainegram.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Trainegram\obj\Debug\Trainegram.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Trainegram\obj\Debug\Trainegram.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Trainegram\obj\Debug\Trainegram.pdb

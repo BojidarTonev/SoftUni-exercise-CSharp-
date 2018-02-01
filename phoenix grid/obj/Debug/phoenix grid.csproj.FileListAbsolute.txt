@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\regex exercise\phoenix grid\bin\Debug\phoenix grid.exe.config
+E:\softUni projects\programming fund\regEx\regex exercise\phoenix grid\bin\Debug\phoenix grid.exe
+E:\softUni projects\programming fund\regEx\regex exercise\phoenix grid\bin\Debug\phoenix grid.pdb
+E:\softUni projects\programming fund\regEx\regex exercise\phoenix grid\obj\Debug\phoenix grid.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\regex exercise\phoenix grid\obj\Debug\phoenix grid.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\regex exercise\phoenix grid\obj\Debug\phoenix grid.exe
+E:\softUni projects\programming fund\regEx\regex exercise\phoenix grid\obj\Debug\phoenix grid.pdb

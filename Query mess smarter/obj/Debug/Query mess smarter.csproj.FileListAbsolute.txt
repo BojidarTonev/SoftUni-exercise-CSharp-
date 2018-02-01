@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\regex exercise\Query mess smarter\bin\Debug\Query mess smarter.exe.config
+E:\softUni projects\programming fund\regEx\regex exercise\Query mess smarter\bin\Debug\Query mess smarter.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Query mess smarter\bin\Debug\Query mess smarter.pdb
+E:\softUni projects\programming fund\regEx\regex exercise\Query mess smarter\obj\Debug\Query mess smarter.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Query mess smarter\obj\Debug\Query mess smarter.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\regex exercise\Query mess smarter\obj\Debug\Query mess smarter.exe
+E:\softUni projects\programming fund\regEx\regex exercise\Query mess smarter\obj\Debug\Query mess smarter.pdb

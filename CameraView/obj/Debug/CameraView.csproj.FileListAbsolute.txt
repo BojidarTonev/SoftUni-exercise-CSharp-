@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\regex exercise\CameraView\bin\Debug\CameraView.exe.config
+E:\softUni projects\programming fund\regEx\regex exercise\CameraView\bin\Debug\CameraView.exe
+E:\softUni projects\programming fund\regEx\regex exercise\CameraView\bin\Debug\CameraView.pdb
+E:\softUni projects\programming fund\regEx\regex exercise\CameraView\obj\Debug\CameraView.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\regex exercise\CameraView\obj\Debug\CameraView.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\regex exercise\CameraView\obj\Debug\CameraView.exe
+E:\softUni projects\programming fund\regEx\regex exercise\CameraView\obj\Debug\CameraView.pdb

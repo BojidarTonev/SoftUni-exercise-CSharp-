@@ -1,0 +1,7 @@
+E:\softUni projects\programming fund\regEx\Cards\bin\Debug\Cards.exe.config
+E:\softUni projects\programming fund\regEx\Cards\bin\Debug\Cards.exe
+E:\softUni projects\programming fund\regEx\Cards\bin\Debug\Cards.pdb
+E:\softUni projects\programming fund\regEx\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+E:\softUni projects\programming fund\regEx\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+E:\softUni projects\programming fund\regEx\Cards\obj\Debug\Cards.exe
+E:\softUni projects\programming fund\regEx\Cards\obj\Debug\Cards.pdb

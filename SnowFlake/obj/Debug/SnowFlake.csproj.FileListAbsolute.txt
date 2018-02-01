@@ -1,0 +1,7 @@
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowFlake\bin\Debug\SnowFlake.exe.config
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowFlake\bin\Debug\SnowFlake.exe
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowFlake\bin\Debug\SnowFlake.pdb
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowFlake\obj\Debug\SnowFlake.csprojResolveAssemblyReference.cache
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowFlake\obj\Debug\SnowFlake.csproj.CoreCompileInputs.cache
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowFlake\obj\Debug\SnowFlake.exe
+E:\softUni projects\nova zala nov kusmet\DANO VZEMA TOQ IZPIT VECHE\SnowFlake\obj\Debug\SnowFlake.pdb
