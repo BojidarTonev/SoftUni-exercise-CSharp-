@@ -1,0 +1,7 @@
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\crazy bunnies\bin\Debug\crazy bunnies.exe.config
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\crazy bunnies\bin\Debug\crazy bunnies.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\crazy bunnies\bin\Debug\crazy bunnies.pdb
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\crazy bunnies\obj\Debug\crazy bunnies.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\crazy bunnies\obj\Debug\crazy bunnies.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\crazy bunnies\obj\Debug\crazy bunnies.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\crazy bunnies\obj\Debug\crazy bunnies.pdb

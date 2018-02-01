@@ -1,0 +1,7 @@
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\String matrix roatation\bin\Debug\String matrix roatation.exe.config
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\String matrix roatation\bin\Debug\String matrix roatation.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\String matrix roatation\bin\Debug\String matrix roatation.pdb
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\String matrix roatation\obj\Debug\String matrix roatation.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\String matrix roatation\obj\Debug\String matrix roatation.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\String matrix roatation\obj\Debug\String matrix roatation.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\String matrix roatation\obj\Debug\String matrix roatation.pdb

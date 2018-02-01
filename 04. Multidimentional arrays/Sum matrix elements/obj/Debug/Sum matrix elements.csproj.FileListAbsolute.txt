@@ -1,0 +1,7 @@
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Sum matrix elements\bin\Debug\Sum matrix elements.exe.config
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Sum matrix elements\bin\Debug\Sum matrix elements.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Sum matrix elements\bin\Debug\Sum matrix elements.pdb
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Sum matrix elements\obj\Debug\Sum matrix elements.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Sum matrix elements\obj\Debug\Sum matrix elements.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Sum matrix elements\obj\Debug\Sum matrix elements.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Sum matrix elements\obj\Debug\Sum matrix elements.pdb

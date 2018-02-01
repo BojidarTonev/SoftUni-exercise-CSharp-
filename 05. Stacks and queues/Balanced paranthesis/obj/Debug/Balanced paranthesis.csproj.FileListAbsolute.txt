@@ -1,0 +1,7 @@
+E:\softUni projects\C# Advanced\Stack - Exercise\Balanced paranthesis\bin\Debug\Balanced paranthesis.exe.config
+E:\softUni projects\C# Advanced\Stack - Exercise\Balanced paranthesis\bin\Debug\Balanced paranthesis.exe
+E:\softUni projects\C# Advanced\Stack - Exercise\Balanced paranthesis\bin\Debug\Balanced paranthesis.pdb
+E:\softUni projects\C# Advanced\Stack - Exercise\Balanced paranthesis\obj\Debug\Balanced paranthesis.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Stack - Exercise\Balanced paranthesis\obj\Debug\Balanced paranthesis.exe
+E:\softUni projects\C# Advanced\Stack - Exercise\Balanced paranthesis\obj\Debug\Balanced paranthesis.pdb
+E:\softUni projects\C# Advanced\Stack - Exercise\Balanced paranthesis\obj\Debug\Balanced paranthesis.csprojResolveAssemblyReference.cache

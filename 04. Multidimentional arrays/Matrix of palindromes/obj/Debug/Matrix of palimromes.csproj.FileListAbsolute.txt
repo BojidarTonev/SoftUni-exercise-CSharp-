@@ -1,0 +1,7 @@
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Matrix of palimromes\bin\Debug\Matrix of palimromes.exe.config
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Matrix of palimromes\bin\Debug\Matrix of palimromes.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Matrix of palimromes\bin\Debug\Matrix of palimromes.pdb
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Matrix of palimromes\obj\Debug\Matrix of palimromes.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Matrix of palimromes\obj\Debug\Matrix of palimromes.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Matrix of palimromes\obj\Debug\Matrix of palimromes.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Matrix of palimromes\obj\Debug\Matrix of palimromes.pdb

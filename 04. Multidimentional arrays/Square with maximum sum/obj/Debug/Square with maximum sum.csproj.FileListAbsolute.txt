@@ -1,0 +1,7 @@
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Square with maximum sum\bin\Debug\Square with maximum sum.exe.config
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Square with maximum sum\bin\Debug\Square with maximum sum.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Square with maximum sum\bin\Debug\Square with maximum sum.pdb
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Square with maximum sum\obj\Debug\Square with maximum sum.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Square with maximum sum\obj\Debug\Square with maximum sum.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Square with maximum sum\obj\Debug\Square with maximum sum.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Lab\Sum matrix elements\Square with maximum sum\obj\Debug\Square with maximum sum.pdb

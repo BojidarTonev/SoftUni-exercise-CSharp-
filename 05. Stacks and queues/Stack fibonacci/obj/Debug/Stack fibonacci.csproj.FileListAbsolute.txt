@@ -1,0 +1,7 @@
+E:\softUni projects\C# Advanced\Stack - Exercise\Stack fibonacci\bin\Debug\Stack fibonacci.exe.config
+E:\softUni projects\C# Advanced\Stack - Exercise\Stack fibonacci\bin\Debug\Stack fibonacci.exe
+E:\softUni projects\C# Advanced\Stack - Exercise\Stack fibonacci\bin\Debug\Stack fibonacci.pdb
+E:\softUni projects\C# Advanced\Stack - Exercise\Stack fibonacci\obj\Debug\Stack fibonacci.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# Advanced\Stack - Exercise\Stack fibonacci\obj\Debug\Stack fibonacci.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Stack - Exercise\Stack fibonacci\obj\Debug\Stack fibonacci.exe
+E:\softUni projects\C# Advanced\Stack - Exercise\Stack fibonacci\obj\Debug\Stack fibonacci.pdb

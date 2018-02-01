@@ -1,0 +1,7 @@
+E:\softUni projects\C# Advanced\Stack - Exercise\Poisonous plants\bin\Debug\Poisonous plants.exe.config
+E:\softUni projects\C# Advanced\Stack - Exercise\Poisonous plants\bin\Debug\Poisonous plants.exe
+E:\softUni projects\C# Advanced\Stack - Exercise\Poisonous plants\bin\Debug\Poisonous plants.pdb
+E:\softUni projects\C# Advanced\Stack - Exercise\Poisonous plants\obj\Debug\Poisonous plants.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# Advanced\Stack - Exercise\Poisonous plants\obj\Debug\Poisonous plants.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Stack - Exercise\Poisonous plants\obj\Debug\Poisonous plants.exe
+E:\softUni projects\C# Advanced\Stack - Exercise\Poisonous plants\obj\Debug\Poisonous plants.pdb

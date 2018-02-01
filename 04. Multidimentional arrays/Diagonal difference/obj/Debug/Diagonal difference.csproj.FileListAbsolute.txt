@@ -1,0 +1,6 @@
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Diagonal difference\bin\Debug\Diagonal difference.exe.config
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Diagonal difference\bin\Debug\Diagonal difference.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Diagonal difference\bin\Debug\Diagonal difference.pdb
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Diagonal difference\obj\Debug\Diagonal difference.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Diagonal difference\obj\Debug\Diagonal difference.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Diagonal difference\obj\Debug\Diagonal difference.pdb

@@ -1,0 +1,7 @@
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Maximal Sum\bin\Debug\Maximal Sum.exe.config
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Maximal Sum\bin\Debug\Maximal Sum.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Maximal Sum\bin\Debug\Maximal Sum.pdb
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Maximal Sum\obj\Debug\Maximal Sum.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Maximal Sum\obj\Debug\Maximal Sum.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Maximal Sum\obj\Debug\Maximal Sum.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Maximal Sum\obj\Debug\Maximal Sum.pdb

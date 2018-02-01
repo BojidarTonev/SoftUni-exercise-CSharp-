@@ -1,0 +1,7 @@
+E:\softUni projects\C# Advanced\Stack - Exercise\Simple text editor\bin\Debug\Simple text editor.exe.config
+E:\softUni projects\C# Advanced\Stack - Exercise\Simple text editor\bin\Debug\Simple text editor.exe
+E:\softUni projects\C# Advanced\Stack - Exercise\Simple text editor\bin\Debug\Simple text editor.pdb
+E:\softUni projects\C# Advanced\Stack - Exercise\Simple text editor\obj\Debug\Simple text editor.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# Advanced\Stack - Exercise\Simple text editor\obj\Debug\Simple text editor.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Stack - Exercise\Simple text editor\obj\Debug\Simple text editor.exe
+E:\softUni projects\C# Advanced\Stack - Exercise\Simple text editor\obj\Debug\Simple text editor.pdb

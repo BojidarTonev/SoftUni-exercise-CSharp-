@@ -1,0 +1,6 @@
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\2x2 Squares in matrix\bin\Debug\2x2 Squares in matrix.exe.config
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\2x2 Squares in matrix\bin\Debug\2x2 Squares in matrix.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\2x2 Squares in matrix\bin\Debug\2x2 Squares in matrix.pdb
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\2x2 Squares in matrix\obj\Debug\2x2 Squares in matrix.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\2x2 Squares in matrix\obj\Debug\2x2 Squares in matrix.exe
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\2x2 Squares in matrix\obj\Debug\2x2 Squares in matrix.pdb
