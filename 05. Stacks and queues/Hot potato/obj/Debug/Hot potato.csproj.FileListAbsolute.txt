@@ -1,0 +1,7 @@
+E:\softUni projects\C# Advanced\Stack - Lab\Hot potato\bin\Debug\Hot potato.exe.config
+E:\softUni projects\C# Advanced\Stack - Lab\Hot potato\bin\Debug\Hot potato.exe
+E:\softUni projects\C# Advanced\Stack - Lab\Hot potato\bin\Debug\Hot potato.pdb
+E:\softUni projects\C# Advanced\Stack - Lab\Hot potato\obj\Debug\Hot potato.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# Advanced\Stack - Lab\Hot potato\obj\Debug\Hot potato.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Stack - Lab\Hot potato\obj\Debug\Hot potato.exe
+E:\softUni projects\C# Advanced\Stack - Lab\Hot potato\obj\Debug\Hot potato.pdb
