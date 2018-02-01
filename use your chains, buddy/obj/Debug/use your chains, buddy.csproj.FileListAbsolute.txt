@@ -1,7 +1,0 @@
-E:\softUni projects\programming fund\regEx\regex exercise\use your chains, buddy\bin\Debug\use your chains, buddy.exe.config
-E:\softUni projects\programming fund\regEx\regex exercise\use your chains, buddy\bin\Debug\use your chains, buddy.exe
-E:\softUni projects\programming fund\regEx\regex exercise\use your chains, buddy\bin\Debug\use your chains, buddy.pdb
-E:\softUni projects\programming fund\regEx\regex exercise\use your chains, buddy\obj\Debug\use your chains, buddy.csprojResolveAssemblyReference.cache
-E:\softUni projects\programming fund\regEx\regex exercise\use your chains, buddy\obj\Debug\use your chains, buddy.csproj.CoreCompileInputs.cache
-E:\softUni projects\programming fund\regEx\regex exercise\use your chains, buddy\obj\Debug\use your chains, buddy.exe
-E:\softUni projects\programming fund\regEx\regex exercise\use your chains, buddy\obj\Debug\use your chains, buddy.pdb
