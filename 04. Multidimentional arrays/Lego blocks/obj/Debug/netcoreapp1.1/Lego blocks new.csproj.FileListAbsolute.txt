@@ -1,0 +1,10 @@
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Lego blocks new\bin\Debug\netcoreapp1.1\Lego blocks new.deps.json
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Lego blocks new\bin\Debug\netcoreapp1.1\Lego blocks new.runtimeconfig.json
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Lego blocks new\bin\Debug\netcoreapp1.1\Lego blocks new.runtimeconfig.dev.json
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Lego blocks new\bin\Debug\netcoreapp1.1\Lego blocks new.dll
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Lego blocks new\bin\Debug\netcoreapp1.1\Lego blocks new.pdb
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Lego blocks new\obj\Debug\netcoreapp1.1\Lego blocks new.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Lego blocks new\obj\Debug\netcoreapp1.1\Lego blocks new.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Lego blocks new\obj\Debug\netcoreapp1.1\Lego blocks new.AssemblyInfo.cs
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Lego blocks new\obj\Debug\netcoreapp1.1\Lego blocks new.dll
+E:\softUni projects\C# Advanced\Multidimentional arrays - Exercise\Matrix of palimromes\Lego blocks new\obj\Debug\netcoreapp1.1\Lego blocks new.pdb
