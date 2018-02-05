@@ -1,0 +1,10 @@
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Greedy times\bin\Debug\netcoreapp1.1\Regeh.deps.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Greedy times\bin\Debug\netcoreapp1.1\Regeh.runtimeconfig.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Greedy times\bin\Debug\netcoreapp1.1\Regeh.runtimeconfig.dev.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Greedy times\bin\Debug\netcoreapp1.1\Regeh.dll
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Greedy times\bin\Debug\netcoreapp1.1\Regeh.pdb
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Greedy times\obj\Debug\netcoreapp1.1\Regeh.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Greedy times\obj\Debug\netcoreapp1.1\Regeh.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Greedy times\obj\Debug\netcoreapp1.1\Regeh.AssemblyInfo.cs
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Greedy times\obj\Debug\netcoreapp1.1\Regeh.dll
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Greedy times\obj\Debug\netcoreapp1.1\Regeh.pdb

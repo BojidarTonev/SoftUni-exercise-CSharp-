@@ -1,0 +1,10 @@
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Knight game\bin\Debug\netcoreapp1.1\Knight game.deps.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Knight game\bin\Debug\netcoreapp1.1\Knight game.runtimeconfig.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Knight game\bin\Debug\netcoreapp1.1\Knight game.runtimeconfig.dev.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Knight game\bin\Debug\netcoreapp1.1\Knight game.dll
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Knight game\bin\Debug\netcoreapp1.1\Knight game.pdb
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Knight game\obj\Debug\netcoreapp1.1\Knight game.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Knight game\obj\Debug\netcoreapp1.1\Knight game.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Knight game\obj\Debug\netcoreapp1.1\Knight game.AssemblyInfo.cs
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Knight game\obj\Debug\netcoreapp1.1\Knight game.dll
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Knight game\obj\Debug\netcoreapp1.1\Knight game.pdb

@@ -1,0 +1,10 @@
+E:\softUni projects\C# advanced Exams\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\Dangerous floor.deps.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\Dangerous floor.runtimeconfig.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\Dangerous floor.runtimeconfig.dev.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\Dangerous floor.dll
+E:\softUni projects\C# advanced Exams\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\Dangerous floor.pdb
+E:\softUni projects\C# advanced Exams\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\Dangerous floor.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# advanced Exams\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\Dangerous floor.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# advanced Exams\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\Dangerous floor.AssemblyInfo.cs
+E:\softUni projects\C# advanced Exams\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\Dangerous floor.dll
+E:\softUni projects\C# advanced Exams\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\Dangerous floor.pdb
