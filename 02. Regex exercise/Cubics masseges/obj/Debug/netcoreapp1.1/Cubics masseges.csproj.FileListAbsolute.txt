@@ -1,0 +1,10 @@
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubics masseges\bin\Debug\netcoreapp1.1\Cubics masseges.deps.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubics masseges\bin\Debug\netcoreapp1.1\Cubics masseges.runtimeconfig.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubics masseges\bin\Debug\netcoreapp1.1\Cubics masseges.runtimeconfig.dev.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubics masseges\bin\Debug\netcoreapp1.1\Cubics masseges.dll
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubics masseges\bin\Debug\netcoreapp1.1\Cubics masseges.pdb
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubics masseges\obj\Debug\netcoreapp1.1\Cubics masseges.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubics masseges\obj\Debug\netcoreapp1.1\Cubics masseges.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubics masseges\obj\Debug\netcoreapp1.1\Cubics masseges.AssemblyInfo.cs
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubics masseges\obj\Debug\netcoreapp1.1\Cubics masseges.dll
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubics masseges\obj\Debug\netcoreapp1.1\Cubics masseges.pdb
