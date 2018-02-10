@@ -1,0 +1,11 @@
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubic assault\bin\Debug\netcoreapp1.1\Cubic assault.deps.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubic assault\bin\Debug\netcoreapp1.1\Cubic assault.runtimeconfig.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubic assault\bin\Debug\netcoreapp1.1\Cubic assault.runtimeconfig.dev.json
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubic assault\bin\Debug\netcoreapp1.1\Cubic assault.dll
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubic assault\bin\Debug\netcoreapp1.1\Cubic assault.pdb
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubic assault\obj\Debug\netcoreapp1.1\Cubic assault.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubic assault\obj\Debug\netcoreapp1.1\Cubic assault.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubic assault\obj\Debug\netcoreapp1.1\Cubic assault.AssemblyInfo.cs
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubic assault\obj\Debug\netcoreapp1.1\Cubic assault.dll
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubic assault\obj\Debug\netcoreapp1.1\Cubic assault.pdb
+E:\softUni projects\C# advanced Exams\ConsoleApp1\Cubic assault\obj\Debug\netcoreapp1.1\Cubic assault.AssemblyInfoInputs.cache
