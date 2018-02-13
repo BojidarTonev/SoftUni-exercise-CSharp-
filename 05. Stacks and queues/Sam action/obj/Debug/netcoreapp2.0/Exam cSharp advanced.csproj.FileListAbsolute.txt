@@ -1,0 +1,11 @@
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Exam cSharp advanced\obj\Debug\netcoreapp2.0\Exam cSharp advanced.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Exam cSharp advanced\obj\Debug\netcoreapp2.0\Exam cSharp advanced.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Exam cSharp advanced\obj\Debug\netcoreapp2.0\Exam cSharp advanced.AssemblyInfoInputs.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Exam cSharp advanced\obj\Debug\netcoreapp2.0\Exam cSharp advanced.AssemblyInfo.cs
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Exam cSharp advanced\bin\Debug\netcoreapp2.0\Exam cSharp advanced.deps.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Exam cSharp advanced\bin\Debug\netcoreapp2.0\Exam cSharp advanced.runtimeconfig.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Exam cSharp advanced\bin\Debug\netcoreapp2.0\Exam cSharp advanced.runtimeconfig.dev.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Exam cSharp advanced\bin\Debug\netcoreapp2.0\Exam cSharp advanced.dll
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Exam cSharp advanced\bin\Debug\netcoreapp2.0\Exam cSharp advanced.pdb
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Exam cSharp advanced\obj\Debug\netcoreapp2.0\Exam cSharp advanced.dll
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Exam cSharp advanced\obj\Debug\netcoreapp2.0\Exam cSharp advanced.pdb

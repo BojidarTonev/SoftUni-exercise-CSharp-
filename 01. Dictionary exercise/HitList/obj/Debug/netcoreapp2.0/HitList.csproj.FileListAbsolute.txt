@@ -1,0 +1,11 @@
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\HitList\bin\Debug\netcoreapp2.0\HitList.deps.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\HitList\bin\Debug\netcoreapp2.0\HitList.runtimeconfig.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\HitList\bin\Debug\netcoreapp2.0\HitList.runtimeconfig.dev.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\HitList\bin\Debug\netcoreapp2.0\HitList.dll
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\HitList\bin\Debug\netcoreapp2.0\HitList.pdb
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\HitList\obj\Debug\netcoreapp2.0\HitList.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\HitList\obj\Debug\netcoreapp2.0\HitList.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\HitList\obj\Debug\netcoreapp2.0\HitList.AssemblyInfoInputs.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\HitList\obj\Debug\netcoreapp2.0\HitList.AssemblyInfo.cs
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\HitList\obj\Debug\netcoreapp2.0\HitList.dll
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\HitList\obj\Debug\netcoreapp2.0\HitList.pdb

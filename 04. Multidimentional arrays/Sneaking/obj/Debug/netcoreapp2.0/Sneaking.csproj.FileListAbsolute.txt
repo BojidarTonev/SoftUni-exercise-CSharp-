@@ -1,0 +1,11 @@
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.deps.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.dev.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.dll
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.pdb
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfoInputs.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfo.cs
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.dll
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.pdb

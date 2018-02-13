@@ -1,0 +1,11 @@
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Crypto blockchain\obj\Debug\netcoreapp2.0\Crypto blockchain.csprojResolveAssemblyReference.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Crypto blockchain\obj\Debug\netcoreapp2.0\Crypto blockchain.csproj.CoreCompileInputs.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Crypto blockchain\obj\Debug\netcoreapp2.0\Crypto blockchain.AssemblyInfoInputs.cache
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Crypto blockchain\obj\Debug\netcoreapp2.0\Crypto blockchain.AssemblyInfo.cs
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Crypto blockchain\bin\Debug\netcoreapp2.0\Crypto blockchain.deps.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Crypto blockchain\bin\Debug\netcoreapp2.0\Crypto blockchain.runtimeconfig.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Crypto blockchain\bin\Debug\netcoreapp2.0\Crypto blockchain.runtimeconfig.dev.json
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Crypto blockchain\bin\Debug\netcoreapp2.0\Crypto blockchain.dll
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Crypto blockchain\bin\Debug\netcoreapp2.0\Crypto blockchain.pdb
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Crypto blockchain\obj\Debug\netcoreapp2.0\Crypto blockchain.dll
+E:\softUni projects\C# advanced Exams\c#advenced exam\Exam cSharp advanced\Crypto blockchain\obj\Debug\netcoreapp2.0\Crypto blockchain.pdb
