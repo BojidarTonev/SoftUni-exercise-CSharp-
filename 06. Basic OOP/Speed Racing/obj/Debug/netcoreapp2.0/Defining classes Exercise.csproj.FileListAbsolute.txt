@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\ConsoleApp1\Defining classes Exercise\bin\Debug\netcoreapp2.0\Defining classes Exercise.deps.json
+E:\softUni projects\Basic OOP\ConsoleApp1\Defining classes Exercise\bin\Debug\netcoreapp2.0\Defining classes Exercise.runtimeconfig.json
+E:\softUni projects\Basic OOP\ConsoleApp1\Defining classes Exercise\bin\Debug\netcoreapp2.0\Defining classes Exercise.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\ConsoleApp1\Defining classes Exercise\bin\Debug\netcoreapp2.0\Defining classes Exercise.dll
+E:\softUni projects\Basic OOP\ConsoleApp1\Defining classes Exercise\bin\Debug\netcoreapp2.0\Defining classes Exercise.pdb
+E:\softUni projects\Basic OOP\ConsoleApp1\Defining classes Exercise\obj\Debug\netcoreapp2.0\Defining classes Exercise.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\ConsoleApp1\Defining classes Exercise\obj\Debug\netcoreapp2.0\Defining classes Exercise.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\ConsoleApp1\Defining classes Exercise\obj\Debug\netcoreapp2.0\Defining classes Exercise.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\ConsoleApp1\Defining classes Exercise\obj\Debug\netcoreapp2.0\Defining classes Exercise.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\ConsoleApp1\Defining classes Exercise\obj\Debug\netcoreapp2.0\Defining classes Exercise.dll
+E:\softUni projects\Basic OOP\ConsoleApp1\Defining classes Exercise\obj\Debug\netcoreapp2.0\Defining classes Exercise.pdb
