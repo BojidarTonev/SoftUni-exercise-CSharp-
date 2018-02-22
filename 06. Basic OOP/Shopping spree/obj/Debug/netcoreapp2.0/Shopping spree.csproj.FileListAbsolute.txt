@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Encapsulation exercise\Shopping spree\bin\Debug\netcoreapp2.0\Shopping spree.deps.json
+E:\softUni projects\Basic OOP\Encapsulation exercise\Shopping spree\bin\Debug\netcoreapp2.0\Shopping spree.runtimeconfig.json
+E:\softUni projects\Basic OOP\Encapsulation exercise\Shopping spree\bin\Debug\netcoreapp2.0\Shopping spree.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Encapsulation exercise\Shopping spree\bin\Debug\netcoreapp2.0\Shopping spree.dll
+E:\softUni projects\Basic OOP\Encapsulation exercise\Shopping spree\bin\Debug\netcoreapp2.0\Shopping spree.pdb
+E:\softUni projects\Basic OOP\Encapsulation exercise\Shopping spree\obj\Debug\netcoreapp2.0\Shopping spree.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Encapsulation exercise\Shopping spree\obj\Debug\netcoreapp2.0\Shopping spree.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Encapsulation exercise\Shopping spree\obj\Debug\netcoreapp2.0\Shopping spree.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Encapsulation exercise\Shopping spree\obj\Debug\netcoreapp2.0\Shopping spree.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Encapsulation exercise\Shopping spree\obj\Debug\netcoreapp2.0\Shopping spree.dll
+E:\softUni projects\Basic OOP\Encapsulation exercise\Shopping spree\obj\Debug\netcoreapp2.0\Shopping spree.pdb
