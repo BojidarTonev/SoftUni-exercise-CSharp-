@@ -1,0 +1,8 @@
+SELECT * FROM Towns
+ORDER BY NAME ASC
+	
+SELECT * FROM Departments
+ORDER BY NAME ASC
+
+SELECT * FROM Employees
+ORDER BY Salary DESC
