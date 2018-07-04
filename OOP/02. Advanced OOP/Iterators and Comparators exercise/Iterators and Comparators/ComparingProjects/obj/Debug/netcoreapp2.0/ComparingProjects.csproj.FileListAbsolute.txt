@@ -1,0 +1,11 @@
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\ComparingProjects\bin\Debug\netcoreapp2.0\ComparingProjects.deps.json
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\ComparingProjects\bin\Debug\netcoreapp2.0\ComparingProjects.runtimeconfig.json
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\ComparingProjects\bin\Debug\netcoreapp2.0\ComparingProjects.runtimeconfig.dev.json
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\ComparingProjects\bin\Debug\netcoreapp2.0\ComparingProjects.dll
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\ComparingProjects\bin\Debug\netcoreapp2.0\ComparingProjects.pdb
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\ComparingProjects\obj\Debug\netcoreapp2.0\ComparingProjects.csprojResolveAssemblyReference.cache
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\ComparingProjects\obj\Debug\netcoreapp2.0\ComparingProjects.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\ComparingProjects\obj\Debug\netcoreapp2.0\ComparingProjects.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\ComparingProjects\obj\Debug\netcoreapp2.0\ComparingProjects.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\ComparingProjects\obj\Debug\netcoreapp2.0\ComparingProjects.dll
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\ComparingProjects\obj\Debug\netcoreapp2.0\ComparingProjects.pdb

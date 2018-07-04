@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\exams\ExamReDo\ExamAgain\ExamAgain\obj\Debug\netcoreapp2.0\ExamAgain.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\exams\ExamReDo\ExamAgain\ExamAgain\obj\Debug\netcoreapp2.0\ExamAgain.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\exams\ExamReDo\ExamAgain\ExamAgain\obj\Debug\netcoreapp2.0\ExamAgain.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\exams\ExamReDo\ExamAgain\ExamAgain\obj\Debug\netcoreapp2.0\ExamAgain.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\exams\ExamReDo\ExamAgain\ExamAgain\bin\Debug\netcoreapp2.0\ExamAgain.deps.json
+E:\softUni projects\Basic OOP\exams\ExamReDo\ExamAgain\ExamAgain\bin\Debug\netcoreapp2.0\ExamAgain.runtimeconfig.json
+E:\softUni projects\Basic OOP\exams\ExamReDo\ExamAgain\ExamAgain\bin\Debug\netcoreapp2.0\ExamAgain.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\exams\ExamReDo\ExamAgain\ExamAgain\bin\Debug\netcoreapp2.0\ExamAgain.dll
+E:\softUni projects\Basic OOP\exams\ExamReDo\ExamAgain\ExamAgain\bin\Debug\netcoreapp2.0\ExamAgain.pdb
+E:\softUni projects\Basic OOP\exams\ExamReDo\ExamAgain\ExamAgain\obj\Debug\netcoreapp2.0\ExamAgain.dll
+E:\softUni projects\Basic OOP\exams\ExamReDo\ExamAgain\ExamAgain\obj\Debug\netcoreapp2.0\ExamAgain.pdb

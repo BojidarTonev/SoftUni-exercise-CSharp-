@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\IPersonInterfacee\bin\Debug\netcoreapp2.0\IPersonInterface.deps.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\IPersonInterfacee\bin\Debug\netcoreapp2.0\IPersonInterface.runtimeconfig.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\IPersonInterfacee\bin\Debug\netcoreapp2.0\IPersonInterface.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\IPersonInterfacee\bin\Debug\netcoreapp2.0\IPersonInterface.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\IPersonInterfacee\bin\Debug\netcoreapp2.0\IPersonInterface.pdb
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\IPersonInterfacee\obj\Debug\netcoreapp2.0\IPersonInterface.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\IPersonInterfacee\obj\Debug\netcoreapp2.0\IPersonInterface.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\IPersonInterfacee\obj\Debug\netcoreapp2.0\IPersonInterface.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\IPersonInterfacee\obj\Debug\netcoreapp2.0\IPersonInterface.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\IPersonInterfacee\obj\Debug\netcoreapp2.0\IPersonInterface.pdb
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\IPersonInterfacee\obj\Debug\netcoreapp2.0\IPersonInterface.csprojResolveAssemblyReference.cache

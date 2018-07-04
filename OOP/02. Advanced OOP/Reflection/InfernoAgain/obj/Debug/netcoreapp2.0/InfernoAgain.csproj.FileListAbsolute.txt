@@ -1,0 +1,11 @@
+E:\softUni projects\Advanced OOP\Reflection\InfernoAgain\bin\Debug\netcoreapp2.0\InfernoAgain.deps.json
+E:\softUni projects\Advanced OOP\Reflection\InfernoAgain\bin\Debug\netcoreapp2.0\InfernoAgain.runtimeconfig.json
+E:\softUni projects\Advanced OOP\Reflection\InfernoAgain\bin\Debug\netcoreapp2.0\InfernoAgain.runtimeconfig.dev.json
+E:\softUni projects\Advanced OOP\Reflection\InfernoAgain\bin\Debug\netcoreapp2.0\InfernoAgain.dll
+E:\softUni projects\Advanced OOP\Reflection\InfernoAgain\bin\Debug\netcoreapp2.0\InfernoAgain.pdb
+E:\softUni projects\Advanced OOP\Reflection\InfernoAgain\obj\Debug\netcoreapp2.0\InfernoAgain.csprojResolveAssemblyReference.cache
+E:\softUni projects\Advanced OOP\Reflection\InfernoAgain\obj\Debug\netcoreapp2.0\InfernoAgain.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\Reflection\InfernoAgain\obj\Debug\netcoreapp2.0\InfernoAgain.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\Reflection\InfernoAgain\obj\Debug\netcoreapp2.0\InfernoAgain.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\Reflection\InfernoAgain\obj\Debug\netcoreapp2.0\InfernoAgain.dll
+E:\softUni projects\Advanced OOP\Reflection\InfernoAgain\obj\Debug\netcoreapp2.0\InfernoAgain.pdb

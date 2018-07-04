@@ -1,0 +1,16 @@
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\obj\Debug\netstandard2.0\ListIteratorTests.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\obj\Debug\netstandard2.0\ListIteratorTests.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\obj\Debug\netstandard2.0\ListIteratorTests.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\bin\Debug\netstandard2.0\nunit.engine.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\bin\Debug\netstandard2.0\nunit.engine.api.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\bin\Debug\netstandard2.0\Mono.Cecil.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\bin\Debug\netstandard2.0\ListIteratorTests.deps.json
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\bin\Debug\netstandard2.0\ListIteratorTests.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\obj\Debug\netstandard2.0\ListIteratorTests.csprojResolveAssemblyReference.cache
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\bin\Debug\netstandard2.0\ListIteratorTests.pdb
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\bin\Debug\netstandard2.0\ListIterrator.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\bin\Debug\netstandard2.0\ListIterrator.pdb
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\obj\Debug\netstandard2.0\ListIteratorTests.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIteratorTests\obj\Debug\netstandard2.0\ListIteratorTests.pdb

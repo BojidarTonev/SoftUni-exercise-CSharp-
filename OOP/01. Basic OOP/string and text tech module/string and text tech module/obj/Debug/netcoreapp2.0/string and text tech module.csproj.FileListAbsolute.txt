@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\string and text tech module\string and text tech module\bin\Debug\netcoreapp2.0\string and text tech module.deps.json
+E:\softUni projects\Basic OOP\string and text tech module\string and text tech module\bin\Debug\netcoreapp2.0\string and text tech module.runtimeconfig.json
+E:\softUni projects\Basic OOP\string and text tech module\string and text tech module\bin\Debug\netcoreapp2.0\string and text tech module.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\string and text tech module\string and text tech module\bin\Debug\netcoreapp2.0\string and text tech module.dll
+E:\softUni projects\Basic OOP\string and text tech module\string and text tech module\bin\Debug\netcoreapp2.0\string and text tech module.pdb
+E:\softUni projects\Basic OOP\string and text tech module\string and text tech module\obj\Debug\netcoreapp2.0\string and text tech module.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\string and text tech module\string and text tech module\obj\Debug\netcoreapp2.0\string and text tech module.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\string and text tech module\string and text tech module\obj\Debug\netcoreapp2.0\string and text tech module.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\string and text tech module\string and text tech module\obj\Debug\netcoreapp2.0\string and text tech module.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\string and text tech module\string and text tech module\obj\Debug\netcoreapp2.0\string and text tech module.dll
+E:\softUni projects\Basic OOP\string and text tech module\string and text tech module\obj\Debug\netcoreapp2.0\string and text tech module.pdb

@@ -1,0 +1,11 @@
+E:\softUni projects\Advanced OOP\Reflection\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+E:\softUni projects\Advanced OOP\Reflection\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+E:\softUni projects\Advanced OOP\Reflection\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+E:\softUni projects\Advanced OOP\Reflection\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+E:\softUni projects\Advanced OOP\Reflection\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+E:\softUni projects\Advanced OOP\Reflection\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojResolveAssemblyReference.cache
+E:\softUni projects\Advanced OOP\Reflection\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\Reflection\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\Reflection\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\Reflection\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+E:\softUni projects\Advanced OOP\Reflection\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb

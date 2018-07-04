@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.deps.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.runtimeconfig.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\CollectionHierarchy\bin\Debug\netcoreapp2.0\CollectionHierarchy.pdb
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\CollectionHierarchy\obj\Debug\netcoreapp2.0\CollectionHierarchy.pdb

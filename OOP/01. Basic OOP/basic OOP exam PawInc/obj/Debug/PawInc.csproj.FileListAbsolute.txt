@@ -1,0 +1,7 @@
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\PawInc\bin\Debug\PawInc.exe.config
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\PawInc\bin\Debug\PawInc.exe
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\PawInc\bin\Debug\PawInc.pdb
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\PawInc\obj\Debug\PawInc.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\PawInc\obj\Debug\PawInc.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\PawInc\obj\Debug\PawInc.exe
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\PawInc\obj\Debug\PawInc.pdb

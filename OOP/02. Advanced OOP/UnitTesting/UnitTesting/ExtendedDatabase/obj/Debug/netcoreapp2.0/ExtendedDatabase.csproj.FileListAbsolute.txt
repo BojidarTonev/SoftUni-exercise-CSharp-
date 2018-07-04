@@ -1,0 +1,9 @@
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ExtendedDatabase\bin\Debug\netcoreapp2.0\ExtendedDatabase.deps.json
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ExtendedDatabase\bin\Debug\netcoreapp2.0\ExtendedDatabase.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ExtendedDatabase\bin\Debug\netcoreapp2.0\ExtendedDatabase.pdb
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.0\ExtendedDatabase.csprojResolveAssemblyReference.cache
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.0\ExtendedDatabase.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.0\ExtendedDatabase.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.0\ExtendedDatabase.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.0\ExtendedDatabase.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp2.0\ExtendedDatabase.pdb

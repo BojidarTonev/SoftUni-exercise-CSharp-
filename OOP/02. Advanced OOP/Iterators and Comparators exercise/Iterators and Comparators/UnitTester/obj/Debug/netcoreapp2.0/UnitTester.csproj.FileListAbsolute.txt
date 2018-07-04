@@ -1,0 +1,10 @@
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\UnitTester\obj\Debug\netcoreapp2.0\UnitTester.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\UnitTester\obj\Debug\netcoreapp2.0\UnitTester.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\UnitTester\obj\Debug\netcoreapp2.0\UnitTester.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\UnitTester\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\UnitTester\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\UnitTester\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\UnitTester\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\UnitTester\bin\Debug\netcoreapp2.0\UnitTester.deps.json
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\UnitTester\bin\Debug\netcoreapp2.0\UnitTester.dll
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\UnitTester\obj\Debug\netcoreapp2.0\UnitTester.csprojResolveAssemblyReference.cache

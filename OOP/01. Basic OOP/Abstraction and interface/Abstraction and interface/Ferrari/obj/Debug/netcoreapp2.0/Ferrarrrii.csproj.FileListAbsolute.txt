@@ -1,0 +1,10 @@
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Ferrarrrii\obj\Debug\netcoreapp2.0\Ferrarrrii.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Ferrarrrii\obj\Debug\netcoreapp2.0\Ferrarrrii.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Ferrarrrii\obj\Debug\netcoreapp2.0\Ferrarrrii.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Ferrarrrii\bin\Debug\netcoreapp2.0\Ferrarrrii.deps.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Ferrarrrii\bin\Debug\netcoreapp2.0\Ferrarrrii.runtimeconfig.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Ferrarrrii\bin\Debug\netcoreapp2.0\Ferrarrrii.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Ferrarrrii\bin\Debug\netcoreapp2.0\Ferrarrrii.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Ferrarrrii\bin\Debug\netcoreapp2.0\Ferrarrrii.pdb
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Ferrarrrii\obj\Debug\netcoreapp2.0\Ferrarrrii.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Ferrarrrii\obj\Debug\netcoreapp2.0\Ferrarrrii.pdb

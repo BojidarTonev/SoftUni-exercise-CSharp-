@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\bin\Debug\netcoreapp2.0\FoodShortage.deps.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\bin\Debug\netcoreapp2.0\FoodShortage.runtimeconfig.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\bin\Debug\netcoreapp2.0\FoodShortage.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\bin\Debug\netcoreapp2.0\FoodShortage.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\bin\Debug\netcoreapp2.0\FoodShortage.pdb
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\FoodShortage.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\FoodShortage.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\FoodShortage.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\FoodShortage.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\FoodShortage.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\FoodShortage.pdb

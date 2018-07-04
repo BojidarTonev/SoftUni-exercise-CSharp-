@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\Polymorphism Exercise\bin\Debug\netcoreapp2.0\Polymorphism Exercise.deps.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\Polymorphism Exercise\bin\Debug\netcoreapp2.0\Polymorphism Exercise.runtimeconfig.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\Polymorphism Exercise\bin\Debug\netcoreapp2.0\Polymorphism Exercise.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\Polymorphism Exercise\bin\Debug\netcoreapp2.0\Polymorphism Exercise.dll
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\Polymorphism Exercise\bin\Debug\netcoreapp2.0\Polymorphism Exercise.pdb
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\Polymorphism Exercise\obj\Debug\netcoreapp2.0\Polymorphism Exercise.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\Polymorphism Exercise\obj\Debug\netcoreapp2.0\Polymorphism Exercise.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\Polymorphism Exercise\obj\Debug\netcoreapp2.0\Polymorphism Exercise.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\Polymorphism Exercise\obj\Debug\netcoreapp2.0\Polymorphism Exercise.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\Polymorphism Exercise\obj\Debug\netcoreapp2.0\Polymorphism Exercise.dll
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\Polymorphism Exercise\obj\Debug\netcoreapp2.0\Polymorphism Exercise.pdb

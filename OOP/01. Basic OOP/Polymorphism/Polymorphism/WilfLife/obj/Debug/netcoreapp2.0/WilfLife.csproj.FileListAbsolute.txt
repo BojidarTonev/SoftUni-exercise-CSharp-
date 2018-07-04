@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WilfLife\obj\Debug\netcoreapp2.0\WilfLife.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WilfLife\obj\Debug\netcoreapp2.0\WilfLife.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WilfLife\obj\Debug\netcoreapp2.0\WilfLife.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WilfLife\obj\Debug\netcoreapp2.0\WilfLife.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WilfLife\bin\Debug\netcoreapp2.0\WilfLife.deps.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WilfLife\bin\Debug\netcoreapp2.0\WilfLife.runtimeconfig.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WilfLife\bin\Debug\netcoreapp2.0\WilfLife.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WilfLife\bin\Debug\netcoreapp2.0\WilfLife.dll
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WilfLife\bin\Debug\netcoreapp2.0\WilfLife.pdb
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WilfLife\obj\Debug\netcoreapp2.0\WilfLife.dll
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WilfLife\obj\Debug\netcoreapp2.0\WilfLife.pdb

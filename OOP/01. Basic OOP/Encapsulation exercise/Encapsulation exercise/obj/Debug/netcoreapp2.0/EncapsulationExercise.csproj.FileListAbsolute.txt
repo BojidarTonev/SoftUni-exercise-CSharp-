@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Encapsulation exercise\Encapsulation exercise\bin\Debug\netcoreapp2.0\EncapsulationExercise.deps.json
+E:\softUni projects\Basic OOP\Encapsulation exercise\Encapsulation exercise\bin\Debug\netcoreapp2.0\EncapsulationExercise.runtimeconfig.json
+E:\softUni projects\Basic OOP\Encapsulation exercise\Encapsulation exercise\bin\Debug\netcoreapp2.0\EncapsulationExercise.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Encapsulation exercise\Encapsulation exercise\bin\Debug\netcoreapp2.0\EncapsulationExercise.dll
+E:\softUni projects\Basic OOP\Encapsulation exercise\Encapsulation exercise\bin\Debug\netcoreapp2.0\EncapsulationExercise.pdb
+E:\softUni projects\Basic OOP\Encapsulation exercise\Encapsulation exercise\obj\Debug\netcoreapp2.0\EncapsulationExercise.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Encapsulation exercise\Encapsulation exercise\obj\Debug\netcoreapp2.0\EncapsulationExercise.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Encapsulation exercise\Encapsulation exercise\obj\Debug\netcoreapp2.0\EncapsulationExercise.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Encapsulation exercise\Encapsulation exercise\obj\Debug\netcoreapp2.0\EncapsulationExercise.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Encapsulation exercise\Encapsulation exercise\obj\Debug\netcoreapp2.0\EncapsulationExercise.dll
+E:\softUni projects\Basic OOP\Encapsulation exercise\Encapsulation exercise\obj\Debug\netcoreapp2.0\EncapsulationExercise.pdb

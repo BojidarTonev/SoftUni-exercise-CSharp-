@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\bin\Debug\netcoreapp2.0\BirthdayCeleb.deps.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\bin\Debug\netcoreapp2.0\BirthdayCeleb.runtimeconfig.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\bin\Debug\netcoreapp2.0\BirthdayCeleb.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\bin\Debug\netcoreapp2.0\BirthdayCeleb.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\bin\Debug\netcoreapp2.0\BirthdayCeleb.pdb
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\BirthdayCeleb.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\BirthdayCeleb.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\BirthdayCeleb.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\BirthdayCeleb.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\BirthdayCeleb.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BirthdayCeleb\obj\Debug\netcoreapp2.0\BirthdayCeleb.pdb

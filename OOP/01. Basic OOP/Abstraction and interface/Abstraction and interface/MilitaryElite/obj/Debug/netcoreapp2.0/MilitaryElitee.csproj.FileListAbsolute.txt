@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\MilitaryElitee\bin\Debug\netcoreapp2.0\MilitaryElitee.deps.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\MilitaryElitee\bin\Debug\netcoreapp2.0\MilitaryElitee.runtimeconfig.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\MilitaryElitee\bin\Debug\netcoreapp2.0\MilitaryElitee.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\MilitaryElitee\bin\Debug\netcoreapp2.0\MilitaryElitee.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\MilitaryElitee\bin\Debug\netcoreapp2.0\MilitaryElitee.pdb
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\MilitaryElitee\obj\Debug\netcoreapp2.0\MilitaryElitee.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\MilitaryElitee\obj\Debug\netcoreapp2.0\MilitaryElitee.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\MilitaryElitee\obj\Debug\netcoreapp2.0\MilitaryElitee.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\MilitaryElitee\obj\Debug\netcoreapp2.0\MilitaryElitee.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\MilitaryElitee\obj\Debug\netcoreapp2.0\MilitaryElitee.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\MilitaryElitee\obj\Debug\netcoreapp2.0\MilitaryElitee.pdb

@@ -1,0 +1,9 @@
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIterrator\obj\Debug\netstandard2.0\ListIterrator.csprojResolveAssemblyReference.cache
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIterrator\obj\Debug\netstandard2.0\ListIterrator.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIterrator\obj\Debug\netstandard2.0\ListIterrator.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIterrator\obj\Debug\netstandard2.0\ListIterrator.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIterrator\bin\Debug\netstandard2.0\ListIterrator.deps.json
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIterrator\bin\Debug\netstandard2.0\ListIterrator.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIterrator\bin\Debug\netstandard2.0\ListIterrator.pdb
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIterrator\obj\Debug\netstandard2.0\ListIterrator.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\ListIterrator\obj\Debug\netstandard2.0\ListIterrator.pdb

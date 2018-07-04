@@ -1,0 +1,15 @@
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\obj\Debug\netcoreapp2.0\MathMockTest.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\obj\Debug\netcoreapp2.0\MathMockTest.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\obj\Debug\netcoreapp2.0\MathMockTest.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\bin\Debug\netcoreapp2.0\MathMockTest.deps.json
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\bin\Debug\netcoreapp2.0\MathMockTest.runtimeconfig.json
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\bin\Debug\netcoreapp2.0\MathMockTest.runtimeconfig.dev.json
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\bin\Debug\netcoreapp2.0\MathMockTest.dll
+E:\softUni projects\Advanced OOP\UnitTesting\UnitTesting\MathMockTest\obj\Debug\netcoreapp2.0\MathMockTest.csprojResolveAssemblyReference.cache

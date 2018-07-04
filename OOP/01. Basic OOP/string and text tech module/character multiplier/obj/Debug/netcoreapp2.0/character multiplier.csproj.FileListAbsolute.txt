@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\string and text tech module\character multiplier\bin\Debug\netcoreapp2.0\character multiplier.deps.json
+E:\softUni projects\Basic OOP\string and text tech module\character multiplier\bin\Debug\netcoreapp2.0\character multiplier.runtimeconfig.json
+E:\softUni projects\Basic OOP\string and text tech module\character multiplier\bin\Debug\netcoreapp2.0\character multiplier.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\string and text tech module\character multiplier\bin\Debug\netcoreapp2.0\character multiplier.dll
+E:\softUni projects\Basic OOP\string and text tech module\character multiplier\bin\Debug\netcoreapp2.0\character multiplier.pdb
+E:\softUni projects\Basic OOP\string and text tech module\character multiplier\obj\Debug\netcoreapp2.0\character multiplier.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\string and text tech module\character multiplier\obj\Debug\netcoreapp2.0\character multiplier.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\string and text tech module\character multiplier\obj\Debug\netcoreapp2.0\character multiplier.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\string and text tech module\character multiplier\obj\Debug\netcoreapp2.0\character multiplier.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\string and text tech module\character multiplier\obj\Debug\netcoreapp2.0\character multiplier.dll
+E:\softUni projects\Basic OOP\string and text tech module\character multiplier\obj\Debug\netcoreapp2.0\character multiplier.pdb

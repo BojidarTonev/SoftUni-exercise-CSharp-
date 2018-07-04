@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\GrandPrixAgain\bin\Debug\netcoreapp2.0\GrandPrixAgain.deps.json
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\GrandPrixAgain\bin\Debug\netcoreapp2.0\GrandPrixAgain.runtimeconfig.json
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\GrandPrixAgain\bin\Debug\netcoreapp2.0\GrandPrixAgain.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\GrandPrixAgain\bin\Debug\netcoreapp2.0\GrandPrixAgain.dll
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\GrandPrixAgain\bin\Debug\netcoreapp2.0\GrandPrixAgain.pdb
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\GrandPrixAgain\obj\Debug\netcoreapp2.0\GrandPrixAgain.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\GrandPrixAgain\obj\Debug\netcoreapp2.0\GrandPrixAgain.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\GrandPrixAgain\obj\Debug\netcoreapp2.0\GrandPrixAgain.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\GrandPrixAgain\obj\Debug\netcoreapp2.0\GrandPrixAgain.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\GrandPrixAgain\obj\Debug\netcoreapp2.0\GrandPrixAgain.dll
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\GrandPrixAgain\obj\Debug\netcoreapp2.0\GrandPrixAgain.pdb

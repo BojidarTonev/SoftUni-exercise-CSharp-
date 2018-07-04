@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.deps.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.pdb
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.pdb
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\softUni projects\Advanced OOP\Reflection\BlackBox\bin\Debug\netcoreapp2.0\BlackBox.deps.json
+E:\softUni projects\Advanced OOP\Reflection\BlackBox\bin\Debug\netcoreapp2.0\BlackBox.runtimeconfig.json
+E:\softUni projects\Advanced OOP\Reflection\BlackBox\bin\Debug\netcoreapp2.0\BlackBox.runtimeconfig.dev.json
+E:\softUni projects\Advanced OOP\Reflection\BlackBox\bin\Debug\netcoreapp2.0\BlackBox.dll
+E:\softUni projects\Advanced OOP\Reflection\BlackBox\bin\Debug\netcoreapp2.0\BlackBox.pdb
+E:\softUni projects\Advanced OOP\Reflection\BlackBox\obj\Debug\netcoreapp2.0\BlackBox.csprojResolveAssemblyReference.cache
+E:\softUni projects\Advanced OOP\Reflection\BlackBox\obj\Debug\netcoreapp2.0\BlackBox.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\Reflection\BlackBox\obj\Debug\netcoreapp2.0\BlackBox.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\Reflection\BlackBox\obj\Debug\netcoreapp2.0\BlackBox.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\Reflection\BlackBox\obj\Debug\netcoreapp2.0\BlackBox.dll
+E:\softUni projects\Advanced OOP\Reflection\BlackBox\obj\Debug\netcoreapp2.0\BlackBox.pdb

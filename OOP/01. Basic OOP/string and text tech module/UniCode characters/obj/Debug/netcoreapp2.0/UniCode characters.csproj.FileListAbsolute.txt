@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\string and text tech module\UniCode characters\bin\Debug\netcoreapp2.0\UniCode characters.deps.json
+E:\softUni projects\Basic OOP\string and text tech module\UniCode characters\bin\Debug\netcoreapp2.0\UniCode characters.runtimeconfig.json
+E:\softUni projects\Basic OOP\string and text tech module\UniCode characters\bin\Debug\netcoreapp2.0\UniCode characters.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\string and text tech module\UniCode characters\bin\Debug\netcoreapp2.0\UniCode characters.dll
+E:\softUni projects\Basic OOP\string and text tech module\UniCode characters\bin\Debug\netcoreapp2.0\UniCode characters.pdb
+E:\softUni projects\Basic OOP\string and text tech module\UniCode characters\obj\Debug\netcoreapp2.0\UniCode characters.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\string and text tech module\UniCode characters\obj\Debug\netcoreapp2.0\UniCode characters.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\string and text tech module\UniCode characters\obj\Debug\netcoreapp2.0\UniCode characters.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\string and text tech module\UniCode characters\obj\Debug\netcoreapp2.0\UniCode characters.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\string and text tech module\UniCode characters\obj\Debug\netcoreapp2.0\UniCode characters.dll
+E:\softUni projects\Basic OOP\string and text tech module\UniCode characters\obj\Debug\netcoreapp2.0\UniCode characters.pdb

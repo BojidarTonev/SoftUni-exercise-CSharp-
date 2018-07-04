@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Telephonyy\bin\Debug\netcoreapp2.0\Telephonyy.deps.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Telephonyy\bin\Debug\netcoreapp2.0\Telephonyy.runtimeconfig.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Telephonyy\bin\Debug\netcoreapp2.0\Telephonyy.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Telephonyy\bin\Debug\netcoreapp2.0\Telephonyy.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Telephonyy\bin\Debug\netcoreapp2.0\Telephonyy.pdb
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Telephonyy\obj\Debug\netcoreapp2.0\Telephonyy.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Telephonyy\obj\Debug\netcoreapp2.0\Telephonyy.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Telephonyy\obj\Debug\netcoreapp2.0\Telephonyy.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Telephonyy\obj\Debug\netcoreapp2.0\Telephonyy.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Telephonyy\obj\Debug\netcoreapp2.0\Telephonyy.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\Telephonyy\obj\Debug\netcoreapp2.0\Telephonyy.pdb

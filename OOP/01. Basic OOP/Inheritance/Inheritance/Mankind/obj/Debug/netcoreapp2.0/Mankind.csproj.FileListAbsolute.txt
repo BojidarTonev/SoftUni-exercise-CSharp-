@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Inheritance\Person\Mankind\bin\Debug\netcoreapp2.0\Mankind.deps.json
+E:\softUni projects\Basic OOP\Inheritance\Person\Mankind\bin\Debug\netcoreapp2.0\Mankind.runtimeconfig.json
+E:\softUni projects\Basic OOP\Inheritance\Person\Mankind\bin\Debug\netcoreapp2.0\Mankind.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Inheritance\Person\Mankind\bin\Debug\netcoreapp2.0\Mankind.dll
+E:\softUni projects\Basic OOP\Inheritance\Person\Mankind\bin\Debug\netcoreapp2.0\Mankind.pdb
+E:\softUni projects\Basic OOP\Inheritance\Person\Mankind\obj\Debug\netcoreapp2.0\Mankind.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Inheritance\Person\Mankind\obj\Debug\netcoreapp2.0\Mankind.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Inheritance\Person\Mankind\obj\Debug\netcoreapp2.0\Mankind.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Inheritance\Person\Mankind\obj\Debug\netcoreapp2.0\Mankind.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Inheritance\Person\Mankind\obj\Debug\netcoreapp2.0\Mankind.dll
+E:\softUni projects\Basic OOP\Inheritance\Person\Mankind\obj\Debug\netcoreapp2.0\Mankind.pdb

@@ -1,0 +1,11 @@
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.deps.json
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.runtimeconfig.json
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.runtimeconfig.dev.json
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.dll
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.pdb
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.csprojResolveAssemblyReference.cache
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.dll
+E:\softUni projects\Advanced OOP\Iterators and Comparators exercise\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.pdb

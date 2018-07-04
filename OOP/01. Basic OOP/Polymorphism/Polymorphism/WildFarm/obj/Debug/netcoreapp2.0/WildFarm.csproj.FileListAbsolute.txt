@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.deps.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.runtimeconfig.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.dll
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.pdb
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.dll
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.pdb

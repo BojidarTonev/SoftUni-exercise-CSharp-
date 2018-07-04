@@ -1,0 +1,7 @@
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\NeedForSpeedFW\bin\Debug\NeedForSpeedFW.exe.config
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\NeedForSpeedFW\bin\Debug\NeedForSpeedFW.exe
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\NeedForSpeedFW\bin\Debug\NeedForSpeedFW.pdb
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\NeedForSpeedFW\obj\Debug\NeedForSpeedFW.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\NeedForSpeedFW\obj\Debug\NeedForSpeedFW.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\NeedForSpeedFW\obj\Debug\NeedForSpeedFW.exe
+E:\softUni projects\Basic OOP\exams\NeedForSpeed\NeedForSpeedFW\obj\Debug\NeedForSpeedFW.pdb

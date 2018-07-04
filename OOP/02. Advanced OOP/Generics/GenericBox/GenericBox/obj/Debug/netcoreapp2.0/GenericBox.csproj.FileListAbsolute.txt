@@ -1,0 +1,11 @@
+E:\softUni projects\Advanced OOP\Generics\GenericBox\GenericBox\bin\Debug\netcoreapp2.0\GenericBox.deps.json
+E:\softUni projects\Advanced OOP\Generics\GenericBox\GenericBox\bin\Debug\netcoreapp2.0\GenericBox.runtimeconfig.json
+E:\softUni projects\Advanced OOP\Generics\GenericBox\GenericBox\bin\Debug\netcoreapp2.0\GenericBox.runtimeconfig.dev.json
+E:\softUni projects\Advanced OOP\Generics\GenericBox\GenericBox\bin\Debug\netcoreapp2.0\GenericBox.dll
+E:\softUni projects\Advanced OOP\Generics\GenericBox\GenericBox\bin\Debug\netcoreapp2.0\GenericBox.pdb
+E:\softUni projects\Advanced OOP\Generics\GenericBox\GenericBox\obj\Debug\netcoreapp2.0\GenericBox.csprojResolveAssemblyReference.cache
+E:\softUni projects\Advanced OOP\Generics\GenericBox\GenericBox\obj\Debug\netcoreapp2.0\GenericBox.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\Generics\GenericBox\GenericBox\obj\Debug\netcoreapp2.0\GenericBox.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\Generics\GenericBox\GenericBox\obj\Debug\netcoreapp2.0\GenericBox.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\Generics\GenericBox\GenericBox\obj\Debug\netcoreapp2.0\GenericBox.dll
+E:\softUni projects\Advanced OOP\Generics\GenericBox\GenericBox\obj\Debug\netcoreapp2.0\GenericBox.pdb

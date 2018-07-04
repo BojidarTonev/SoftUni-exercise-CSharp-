@@ -1,0 +1,11 @@
+E:\softUni projects\Advanced OOP\Reflection\InfernoCrazyShit\bin\Debug\netcoreapp2.0\InfernoCrazyShit.deps.json
+E:\softUni projects\Advanced OOP\Reflection\InfernoCrazyShit\bin\Debug\netcoreapp2.0\InfernoCrazyShit.runtimeconfig.json
+E:\softUni projects\Advanced OOP\Reflection\InfernoCrazyShit\bin\Debug\netcoreapp2.0\InfernoCrazyShit.runtimeconfig.dev.json
+E:\softUni projects\Advanced OOP\Reflection\InfernoCrazyShit\bin\Debug\netcoreapp2.0\InfernoCrazyShit.dll
+E:\softUni projects\Advanced OOP\Reflection\InfernoCrazyShit\bin\Debug\netcoreapp2.0\InfernoCrazyShit.pdb
+E:\softUni projects\Advanced OOP\Reflection\InfernoCrazyShit\obj\Debug\netcoreapp2.0\InfernoCrazyShit.csprojResolveAssemblyReference.cache
+E:\softUni projects\Advanced OOP\Reflection\InfernoCrazyShit\obj\Debug\netcoreapp2.0\InfernoCrazyShit.csproj.CoreCompileInputs.cache
+E:\softUni projects\Advanced OOP\Reflection\InfernoCrazyShit\obj\Debug\netcoreapp2.0\InfernoCrazyShit.AssemblyInfoInputs.cache
+E:\softUni projects\Advanced OOP\Reflection\InfernoCrazyShit\obj\Debug\netcoreapp2.0\InfernoCrazyShit.AssemblyInfo.cs
+E:\softUni projects\Advanced OOP\Reflection\InfernoCrazyShit\obj\Debug\netcoreapp2.0\InfernoCrazyShit.dll
+E:\softUni projects\Advanced OOP\Reflection\InfernoCrazyShit\obj\Debug\netcoreapp2.0\InfernoCrazyShit.pdb

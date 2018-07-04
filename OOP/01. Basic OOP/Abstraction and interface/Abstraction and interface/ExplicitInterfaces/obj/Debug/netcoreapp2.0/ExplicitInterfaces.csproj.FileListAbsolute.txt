@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\ExplicitInterfaces\bin\Debug\netcoreapp2.0\ExplicitInterfaces.deps.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\ExplicitInterfaces\bin\Debug\netcoreapp2.0\ExplicitInterfaces.runtimeconfig.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\ExplicitInterfaces\bin\Debug\netcoreapp2.0\ExplicitInterfaces.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\ExplicitInterfaces\bin\Debug\netcoreapp2.0\ExplicitInterfaces.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\ExplicitInterfaces\bin\Debug\netcoreapp2.0\ExplicitInterfaces.pdb
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\ExplicitInterfaces\obj\Debug\netcoreapp2.0\ExplicitInterfaces.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\ExplicitInterfaces\obj\Debug\netcoreapp2.0\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\ExplicitInterfaces\obj\Debug\netcoreapp2.0\ExplicitInterfaces.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\ExplicitInterfaces\obj\Debug\netcoreapp2.0\ExplicitInterfaces.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\ExplicitInterfaces\obj\Debug\netcoreapp2.0\ExplicitInterfaces.dll
+E:\softUni projects\Basic OOP\Abstraction and interface\IPerson\ExplicitInterfaces\obj\Debug\netcoreapp2.0\ExplicitInterfaces.pdb

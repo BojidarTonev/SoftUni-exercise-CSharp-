@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\VehiclesExtension\bin\Debug\netcoreapp2.0\VehiclesExtension.deps.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\VehiclesExtension\bin\Debug\netcoreapp2.0\VehiclesExtension.runtimeconfig.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\VehiclesExtension\bin\Debug\netcoreapp2.0\VehiclesExtension.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\VehiclesExtension\bin\Debug\netcoreapp2.0\VehiclesExtension.dll
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\VehiclesExtension\bin\Debug\netcoreapp2.0\VehiclesExtension.pdb
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.dll
+E:\softUni projects\Basic OOP\Polymorphism\Vehicles\VehiclesExtension\obj\Debug\netcoreapp2.0\VehiclesExtension.pdb

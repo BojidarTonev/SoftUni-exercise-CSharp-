@@ -1,0 +1,11 @@
+E:\softUni projects\Basic OOP\Inheritance\Person\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.deps.json
+E:\softUni projects\Basic OOP\Inheritance\Person\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.runtimeconfig.json
+E:\softUni projects\Basic OOP\Inheritance\Person\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.runtimeconfig.dev.json
+E:\softUni projects\Basic OOP\Inheritance\Person\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.dll
+E:\softUni projects\Basic OOP\Inheritance\Person\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.pdb
+E:\softUni projects\Basic OOP\Inheritance\Person\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.csprojResolveAssemblyReference.cache
+E:\softUni projects\Basic OOP\Inheritance\Person\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.csproj.CoreCompileInputs.cache
+E:\softUni projects\Basic OOP\Inheritance\Person\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.AssemblyInfoInputs.cache
+E:\softUni projects\Basic OOP\Inheritance\Person\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.AssemblyInfo.cs
+E:\softUni projects\Basic OOP\Inheritance\Person\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.dll
+E:\softUni projects\Basic OOP\Inheritance\Person\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.pdb
