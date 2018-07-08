@@ -1,0 +1,14 @@
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.deps.json
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.json
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.dev.json
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfo.cs
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.Data.dll
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.Data.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csproj.CopyComplete
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\ghost\Desktop\Entity\Entity again\Entity Relations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.pdb
