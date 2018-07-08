@@ -1,5 +1,4 @@
 ﻿using System;
-using StudentSystem.Data.Configurations;
 
 namespace P01_StudentSystem
 {
@@ -7,7 +6,7 @@ namespace P01_StudentSystem
     {
         static void Main(string[] args)
         {
-            var db = new StudentConfiguration();
+            Console.WriteLine("Hello World!");
         }
     }
 }
