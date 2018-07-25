@@ -1,0 +1,16 @@
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Data.dll
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.ModelsDto.dll
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csprojResolveAssemblyReference.cache
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.AssemblyInfoInputs.cache
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.AssemblyInfo.cs
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.deps.json
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.dll
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Services.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Data.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.ModelsDto.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.csproj.CopyComplete
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.dll
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.Services\obj\Debug\netcoreapp2.0\Employees.Services.pdb

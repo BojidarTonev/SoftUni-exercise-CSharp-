@@ -1,0 +1,12 @@
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\bin\Debug\netcoreapp2.0\Employees.ModelsDto.deps.json
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\bin\Debug\netcoreapp2.0\Employees.ModelsDto.dll
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\bin\Debug\netcoreapp2.0\Employees.ModelsDto.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\obj\Debug\netcoreapp2.0\Employees.ModelsDto.csprojResolveAssemblyReference.cache
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\obj\Debug\netcoreapp2.0\Employees.ModelsDto.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\obj\Debug\netcoreapp2.0\Employees.ModelsDto.AssemblyInfoInputs.cache
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\obj\Debug\netcoreapp2.0\Employees.ModelsDto.AssemblyInfo.cs
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\obj\Debug\netcoreapp2.0\Employees.ModelsDto.dll
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\obj\Debug\netcoreapp2.0\Employees.ModelsDto.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\auto mapping\AutoMapping\Employees.ModelsDto\obj\Debug\netcoreapp2.0\Employees.ModelsDto.csproj.CopyComplete
