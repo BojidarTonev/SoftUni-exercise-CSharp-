@@ -1,0 +1,16 @@
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.App.deps.json
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.App.runtimeconfig.json
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.App.runtimeconfig.dev.json
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.App.dll
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.csprojResolveAssemblyReference.cache
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.AssemblyInfoInputs.cache
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.AssemblyInfo.cs
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.App.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.Models.dll
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealers.Data.dll
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealers.Data.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.0\CarDealer.Models.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.csproj.CopyComplete
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.dll
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\CarDealerDatabase\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.0\CarDealer.App.pdb

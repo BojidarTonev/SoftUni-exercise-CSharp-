@@ -1,0 +1,14 @@
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.deps.json
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.dll
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.csprojResolveAssemblyReference.cache
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.AssemblyInfoInputs.cache
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.AssemblyInfo.cs
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.runtimeconfig.json
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.runtimeconfig.dev.json
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Models.dll
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Models.pdb
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.csproj.CopyComplete
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.dll
+C:\Users\ghost\Desktop\Entity\Entity again\Xml proccessing\XmlProcessing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.pdb
