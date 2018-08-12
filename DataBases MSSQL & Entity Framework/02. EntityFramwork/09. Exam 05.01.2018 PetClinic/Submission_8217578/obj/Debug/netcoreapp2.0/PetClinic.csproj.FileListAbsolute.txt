@@ -1,0 +1,11 @@
+C:\Users\ghost\Desktop\pet clinic re\Submission_8217578\bin\Debug\netcoreapp2.0\PetClinic.deps.json
+C:\Users\ghost\Desktop\pet clinic re\Submission_8217578\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.json
+C:\Users\ghost\Desktop\pet clinic re\Submission_8217578\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.dev.json
+C:\Users\ghost\Desktop\pet clinic re\Submission_8217578\bin\Debug\netcoreapp2.0\PetClinic.dll
+C:\Users\ghost\Desktop\pet clinic re\Submission_8217578\bin\Debug\netcoreapp2.0\PetClinic.pdb
+C:\Users\ghost\Desktop\pet clinic re\Submission_8217578\obj\Debug\netcoreapp2.0\PetClinic.csprojResolveAssemblyReference.cache
+C:\Users\ghost\Desktop\pet clinic re\Submission_8217578\obj\Debug\netcoreapp2.0\PetClinic.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\pet clinic re\Submission_8217578\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfoInputs.cache
+C:\Users\ghost\Desktop\pet clinic re\Submission_8217578\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfo.cs
+C:\Users\ghost\Desktop\pet clinic re\Submission_8217578\obj\Debug\netcoreapp2.0\PetClinic.dll
+C:\Users\ghost\Desktop\pet clinic re\Submission_8217578\obj\Debug\netcoreapp2.0\PetClinic.pdb
