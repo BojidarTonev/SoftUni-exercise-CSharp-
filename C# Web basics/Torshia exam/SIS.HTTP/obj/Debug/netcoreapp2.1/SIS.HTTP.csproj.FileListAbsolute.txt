@@ -1,0 +1,9 @@
+C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.deps.json
+C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.AssemblyInfo.cs
+C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.csprojAssemblyReference.cache
