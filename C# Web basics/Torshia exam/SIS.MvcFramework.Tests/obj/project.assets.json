@@ -7611,11 +7611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
+      "projectUniqueName": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
       "projectName": "SIS.MvcFramework.Tests",
-      "projectPath": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
+      "projectPath": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
       "packagesPath": "C:\\Users\\Bojidar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.MvcFramework.Tests\\obj\\",
+      "outputPath": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.MvcFramework.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7634,8 +7634,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
-              "projectPath": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+            "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+              "projectPath": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
             }
           }
         }

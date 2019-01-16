@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de1cffa3-7d73-4cca-a668-c7b0e06259f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JS Operations and syntaxis - lab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/bin/Debug/netcoreapp2.1/SIS.HTTP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/bin/Debug/netcoreapp2.1/SIS.HTTP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/bin/Debug/netcoreapp2.1/SIS.HTTP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/bin/Debug/netcoreapp2.1/SIS.HTTP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/Debug/netcoreapp2.1/SIS.HTTP.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/Debug/netcoreapp2.1/SIS.HTTP.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/Debug/netcoreapp2.1/SIS.HTTP.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/Debug/netcoreapp2.1/SIS.HTTP.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/Debug/netcoreapp2.1/SIS.HTTP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/Debug/netcoreapp2.1/SIS.HTTP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/Debug/netcoreapp2.1/SIS.HTTP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/Debug/netcoreapp2.1/SIS.HTTP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/SIS.HTTP.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/SIS.HTTP.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/SIS.HTTP.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/SIS.HTTP.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.HTTP/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/Debug/netcoreapp2.1/SIS.MvcFramework.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/Debug/netcoreapp2.1/SIS.MvcFramework.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/Debug/netcoreapp2.1/SIS.MvcFramework.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/Debug/netcoreapp2.1/SIS.MvcFramework.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/Debug/netcoreapp2.1/SIS.MvcFramework.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/Debug/netcoreapp2.1/SIS.MvcFramework.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/SIS.MvcFramework.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/SIS.MvcFramework.Tests.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/SIS.MvcFramework.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/SIS.MvcFramework.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/Debug/netcoreapp2.1/SIS.MvcFramework.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/Debug/netcoreapp2.1/SIS.MvcFramework.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/Debug/netcoreapp2.1/SIS.MvcFramework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/Debug/netcoreapp2.1/SIS.MvcFramework.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/Debug/netcoreapp2.1/SIS.MvcFramework.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/Debug/netcoreapp2.1/SIS.MvcFramework.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/SIS.MvcFramework.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/SIS.MvcFramework.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/SIS.MvcFramework.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/SIS.MvcFramework.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.MvcFramework/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/bin/Debug/netcoreapp2.1/SIS.HTTP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/bin/Debug/netcoreapp2.1/SIS.HTTP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/bin/Debug/netcoreapp2.1/SIS.HTTP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/bin/Debug/netcoreapp2.1/SIS.HTTP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/bin/Debug/netcoreapp2.1/SIS.WebServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/bin/Debug/netcoreapp2.1/SIS.WebServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/bin/Debug/netcoreapp2.1/SIS.WebServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/bin/Debug/netcoreapp2.1/SIS.WebServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/Debug/netcoreapp2.1/SIS.WebServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/SIS.WebServer.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/SIS.WebServer.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/SIS.WebServer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/SIS.WebServer.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/SIS.WebServer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/Debug/netcoreapp2.2/TorshiaWebApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/Debug/netcoreapp2.2/TorshiaWebApp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/Debug/netcoreapp2.2/TorshiaWebApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/Debug/netcoreapp2.2/TorshiaWebApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/Debug/netcoreapp2.2/TorshiaWebApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/Debug/netcoreapp2.2/TorshiaWebApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/TorshiaWebApp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/TorshiaWebApp.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/TorshiaWebApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/TorshiaWebApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C# Web basics/Torshia exam/TorshiaWebApp/obj/project.assets.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS Operations and syntaxis - lab.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="n#!!block;n#stringLength#0" />
+                <element signature="n#!!block;n#mathOperations#0" />
+                <element signature="n#!!block;n#SumOfNumbers#0" />
+                <element signature="n#!!block;n#function#0" />
+                <element signature="n#!!block;n#circleArea#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JS Operations and syntaxis - lab.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github projects\SoftUni-exercise\JS Core\JS Fundamentals" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="JS Operations and syntaxis - lab.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Operations and syntaxis - lab.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.JS Operations and syntaxis - lab.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de1cffa3-7d73-4cca-a668-c7b0e06259f8" name="Default Changelist" comment="" />
+      <created>1547593052818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547593052818</updated>
+      <workItem from="1547593055041" duration="2720000" />
+      <workItem from="1547596462712" duration="1871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4591000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30985916" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298731" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3298731" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JS Operations and syntaxis - lab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="n#!!block;n#stringLength#0" />
+            <element signature="n#!!block;n#mathOperations#0" />
+            <element signature="n#!!block;n#SumOfNumbers#0" />
+            <element signature="n#!!block;n#function#0" />
+            <element signature="n#!!block;n#circleArea#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

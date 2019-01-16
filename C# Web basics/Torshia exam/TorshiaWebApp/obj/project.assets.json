@@ -6613,11 +6613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\TorshiaWebApp\\TorshiaWebApp.csproj",
+      "projectUniqueName": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\TorshiaWebApp\\TorshiaWebApp.csproj",
       "projectName": "TorshiaWebApp",
-      "projectPath": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\TorshiaWebApp\\TorshiaWebApp.csproj",
+      "projectPath": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\TorshiaWebApp\\TorshiaWebApp.csproj",
       "packagesPath": "C:\\Users\\Bojidar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\TorshiaWebApp\\obj\\",
+      "outputPath": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\TorshiaWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6636,14 +6636,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
-              "projectPath": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.HTTP\\SIS.HTTP.csproj"
+            "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.HTTP\\SIS.HTTP.csproj": {
+              "projectPath": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.HTTP\\SIS.HTTP.csproj"
             },
-            "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
-              "projectPath": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+            "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+              "projectPath": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
             },
-            "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.WebServer\\SIS.WebServer.csproj": {
-              "projectPath": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.WebServer\\SIS.WebServer.csproj"
+            "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.WebServer\\SIS.WebServer.csproj": {
+              "projectPath": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.WebServer\\SIS.WebServer.csproj"
             }
           }
         }

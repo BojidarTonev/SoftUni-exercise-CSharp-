@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.HTTP\\SIS.HTTP.csproj",
+      "projectUniqueName": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.HTTP\\SIS.HTTP.csproj",
       "projectName": "SIS.HTTP",
-      "projectPath": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.HTTP\\SIS.HTTP.csproj",
+      "projectPath": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.HTTP\\SIS.HTTP.csproj",
       "packagesPath": "C:\\Users\\Bojidar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bojidar\\Downloads\\torshia\\SIS-MvcFramework\\src\\SIS.HTTP\\obj\\",
+      "outputPath": "D:\\github projects\\SoftUni-exercise\\C# Web basics\\Torshia exam\\SIS.HTTP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

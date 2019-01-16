@@ -10,3 +10,15 @@ C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.WebServer\obj\Debug\
 C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CopyComplete
 C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.dll
 C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.deps.json
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csprojAssemblyReference.cache
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfoInputs.cache
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfo.cs
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CopyComplete
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.dll
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.pdb

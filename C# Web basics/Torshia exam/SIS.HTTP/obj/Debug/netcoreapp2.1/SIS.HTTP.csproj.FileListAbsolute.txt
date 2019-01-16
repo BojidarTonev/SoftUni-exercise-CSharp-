@@ -7,3 +7,12 @@ C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netco
 C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.dll
 C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.pdb
 C:\Users\Bojidar\Downloads\torshia\SIS-MvcFramework\src\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.csprojAssemblyReference.cache
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.deps.json
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.HTTP\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.csprojAssemblyReference.cache
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.csproj.CoreCompileInputs.cache
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.AssemblyInfoInputs.cache
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.AssemblyInfo.cs
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.dll
+D:\github projects\SoftUni-exercise\C# Web basics\Torshia exam\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.pdb
