@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de1cffa3-7d73-4cca-a668-c7b0e06259f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS Operations and syntax - exercise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Document Object Model - lab/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,40 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Operations and syntaxis - lab.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/09_Virus-Installer/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="n#!!block;n#stringLength#0" />
-                <element signature="n#!!block;n#mathOperations#0" />
-                <element signature="n#!!block;n#SumOfNumbers#0" />
-                <element signature="n#!!block;n#largestNumber#0" />
-                <element signature="n#!!block;n#circleArea#0" />
-              </folding>
+            <state relative-caret-position="561">
+              <caret line="33" column="78" lean-forward="true" selection-start-line="33" selection-start-column="78" selection-end-line="33" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS Operations and syntax - exercise.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/09_Virus-Installer/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
-              <folding>
-                <element signature="n#!!block;n#ILIkeJavaScript#0" />
-                <element signature="n#!!block;n#EvenNumbers1ToN#0" />
-                <element signature="n#!!block;n#Fruit#0" />
-                <element signature="n#!!block;n#FitnessRates#0" />
-                <element signature="n#!!block;n#GreatestCommonDivisor#0" />
-                <element signature="n#!!block;n#SameNumbers#0" />
-                <element signature="n#!!block;n#TimeToWalk#0" />
-                <element signature="n#!!block;n#FlightTimeTable#0" />
-                <element signature="n#!!block;n#CalorieObject#0" />
-                <element signature="n#!!block;n#CoffeeMachine#0" />
-                <element signature="n#!!block;n#DailyCaloriesIntake#0" />
-              </folding>
+            <state relative-caret-position="295">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -63,6 +43,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myChatBox</find>
+      <find>content</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
@@ -71,6 +57,17 @@
       <list>
         <option value="$PROJECT_DIR$/JS Operations and syntaxis - lab.js" />
         <option value="$PROJECT_DIR$/JS Operations and syntax - exercise.js" />
+        <option value="$PROJECT_DIR$/Document-Object-Model - exercise/03_Encode-and-Decode-Messages/solution.js" />
+        <option value="$PROJECT_DIR$/Document-Object-Model - exercise/04_Locked-Profile/solution.js" />
+        <option value="$PROJECT_DIR$/Document-Object-Model - exercise/05_Number-Convertor/solution.js" />
+        <option value="$PROJECT_DIR$/Document-Object-Model - exercise/02_Chat-Room-with-Pesho/solution.js" />
+        <option value="$PROJECT_DIR$/Document-Object-Model - exercise/06_SoftUni-Quizz/template.html" />
+        <option value="$PROJECT_DIR$/Document-Object-Model - exercise/06_SoftUni-Quizz/solution.js" />
+        <option value="$PROJECT_DIR$/Document-Object-Model - exercise/07_Table-Search-Engine/template.html" />
+        <option value="$PROJECT_DIR$/Document-Object-Model - exercise/07_Table-Search-Engine/solution.js" />
+        <option value="$PROJECT_DIR$/Document-Object-Model - exercise/08_Toto-Numbers/solution.js" />
+        <option value="$PROJECT_DIR$/Document-Object-Model - exercise/09_Virus-Installer/template.html" />
+        <option value="$PROJECT_DIR$/Document-Object-Model - exercise/09_Virus-Installer/solution.js" />
       </list>
     </option>
   </component>
@@ -93,6 +90,17 @@
             <path>
               <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="Document-Object-Model - exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="Document-Object-Model - exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="09_Virus-Installer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,15 +129,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.JS Operations and syntax - exercise.js">
+  <component name="RunManager" selected="Node.js.solution.js">
     <configuration name="JS Operations and syntax - exercise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Operations and syntax - exercise.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="JS Operations and syntaxis - lab.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Operations and syntaxis - lab.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Document-Object-Model - exercise/08_Toto-Numbers/solution.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.solution.js" />
         <item itemvalue="Node.js.JS Operations and syntax - exercise.js" />
         <item itemvalue="Node.js.JS Operations and syntaxis - lab.js" />
       </list>
@@ -152,11 +164,14 @@
       <workItem from="1547752793256" duration="13657000" />
       <workItem from="1547768233964" duration="24000" />
       <workItem from="1547778772776" duration="6951000" />
+      <workItem from="1547996677720" duration="18079000" />
+      <workItem from="1548100605303" duration="4318000" />
+      <workItem from="1548126692243" duration="4630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28999000" />
+    <option name="totallyTimeSpent" value="56026000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -170,7 +185,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -188,6 +203,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30985916" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298731" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3298731" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -209,8 +243,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Operations and syntax - exercise.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+        <state relative-caret-position="289">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
           <folding>
             <element signature="n#!!block;n#ILIkeJavaScript#0" />
             <element signature="n#!!block;n#EvenNumbers1ToN#0" />
@@ -224,6 +258,132 @@
             <element signature="n#!!block;n#CoffeeMachine#0" />
             <element signature="n#!!block;n#DailyCaloriesIntake#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/03_Encode-and-Decode-Messages/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/04_Locked-Profile/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/04_Locked-Profile/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="49" column="42" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/05_Number-Convertor/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/02_Chat-Room-with-Pesho/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/05_Number-Convertor/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/03_Encode-and-Decode-Messages/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/02_Chat-Room-with-Pesho/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/06_SoftUni-Quizz/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/07_Table-Search-Engine/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/07_Table-Search-Engine/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/06_SoftUni-Quizz/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/07_Table-Search-Engine/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/08_Toto-Numbers/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" column="23" lean-forward="true" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/08_Toto-Numbers/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/08_Toto-Numbers/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/09_Virus-Installer/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Document-Object-Model - exercise/09_Virus-Installer/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="78" lean-forward="true" selection-start-line="33" selection-start-column="78" selection-end-line="33" selection-end-column="78" />
         </state>
       </provider>
     </entry>
