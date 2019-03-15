@@ -52,14 +52,14 @@ function solve() {
           }
       }
       let finalPrice = resultPrices.reduce(add, 0);
-      let avgDec = decorationFactors.reduce(add, 0)/decorationFactors.length;
+      let avgDec = ParseFloat(decorationFactors.reduce(add, 0)/decorationFactors.length);
 
       resultArea.textContent += `Bought furniture: ${resultNames.join(', ')}\n`;
       resultArea.textContent += `Total price: ${finalPrice.toFixed(2)}\n`;
-      resultArea.textContent += `Average decoration factor: ${avgDec.toFixed(2)}\n`;
+      resultArea.textContent += `Average decoration factor: ${avgDec}`;
   });
 
    function add(a, b) {
-     return a + b;
+     return ParseFloat(a) + ParseFloat(b);
  }
 }
