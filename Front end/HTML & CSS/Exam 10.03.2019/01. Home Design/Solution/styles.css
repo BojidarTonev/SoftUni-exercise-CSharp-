@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-family: 'Courgette', cursive;
+}
+
+body{
+    text-align: center;
+    font-family: inherit;
+    background-color: #e3e5e8;
+}
+
+h1{
+    padding: 1em 2em 0em 2em;
+    font-size: 3em;
+}
+
+.additional-text{
+    margin-left: 250px;
+    font-size: 1.7em;
+    color: red;
+}
+
+.section-main {
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    position: relative;
+    margin: 3em;
+    height: 25em;
+    width: 23em;
+    border-radius: 0.5em;
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+    background-color: white;
+}
+
+.text {
+    padding-top: 12.5em;
+
+}
+
+.text h3 {
+    padding: 0.7em;
+}
+
+.text h3::after{
+    content: '';
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 20px;
+    border-bottom: 1.5px solid red;
+}
+
+.text p {
+    padding: 0.7em;
+}
+
+.continue-reading {
+    position: absolute;
+    bottom:0;
+    padding-bottom: 0.7em;
+    text-decoration: none;
+	right: 0;
+    left: 0;
+    text-align: center;
+}
+
+.fas {
+    color: red;
+}
+
+.first-card {
+    background-image: url("../Requirements-and-Resources/image/image1.jpg");
+}
+
+.second-card {
+    background-image: url("../Requirements-and-Resources/image/image2.jpg");
+}
+
+.third-card {
+    background-image: url("../Requirements-and-Resources/image/image3.jpg");
+}

@@ -1,0 +1,257 @@
+@media (max-width: 768px){
+    .site-main{
+        margin: 0;
+    }
+    html{
+        font-size: 15px;
+    }
+    body{
+        padding: 0;
+        margin: 0;
+    }
+    .site-navigation {
+        display: none;
+    }
+    /*header-part*/
+    .entry-header {    
+        font-family: 'Strangelove', 'Amatic SC', cursive;
+        background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.1)), url('./images/header-image.jpg');
+        background-size: cover;  
+        background-repeat: no-repeat;
+        color: #fff;    
+        font-size: 1.2rem;  
+        text-shadow: 1px 1px 1px #000;  
+        border-radius: 0;
+      }
+      
+      .entry-header-container {
+        width: 90%;
+        margin: 0 2em;
+        position: absolute;
+        top: 0;
+      }
+      
+      .entry-header-title {  
+        font-weight: 200;
+        font-size: 3.2rem;
+        padding-bottom: 1rem;  
+        padding-top: 6rem;
+      }
+      
+      .entry-header-title::first-letter {
+        font-size: 5.7rem;
+      }
+      
+      .entry-header-description {
+        font-family: 'Lobster', cursive;
+        color: #41CFCF;  
+        font-size: 1.2rem;
+        position: relative;
+        top: 150px;
+        left: 93px;  
+      }
+
+
+
+      /*site-info*/
+      .site-information {
+        width: 100%;
+        display: flex;
+        background:
+        radial-gradient(circle at 100% 50%, transparent 20%, rgba(255,255,255,.3) 21%, rgba(255,255,255,.3) 34%, transparent 35%, transparent),
+        radial-gradient(circle at 0% 50%, transparent 20%, rgba(255,255,255,.3) 21%, rgba(255,255,255,.3) 34%, transparent 35%, transparent) 0 -50px;
+        background-color: #41CFCF;
+        background-size: 75px 100px;
+        color: #fff;
+        text-shadow: 1px 1px 1px rgb(122, 121, 121);    
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      
+      .site-information-text {
+        flex: 0 0 10%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      
+      .site-information-image {
+        background: url('./images/games-picture.jpg') center center;
+        background-size: cover;
+        flex: 0 0 20%;
+        display: none;
+      }
+      
+      .entry-title {
+        font-weight: 20;
+        font-size: 2rem;
+      
+      }
+      
+      .entry-description {
+        width: 100%;
+        font-size: 0.8rem;
+      }
+
+      .entry-subtitle {
+        font-family: 'Lobster', cursive;  
+        font-size: 1rem;
+        letter-spacing: 2.5px;
+        padding-bottom: 0;
+      }
+
+      /*form*/
+      .site-form {
+        text-align: center;
+        background: #FF8F57;
+        opacity: 0.6;
+      }
+      
+      .site-form form > p {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      .site-form input {
+        border: none;
+        padding: 0.8rem 0.5rem;
+        border-radius: 5px;
+        background: rgb(146, 94, 68);
+        overflow: hidden;
+        flex-grow: 1;
+        color: #fff;
+        width: 27em;
+      }
+      
+      .site-form button {
+        background: #329A8F;
+        padding: 0.8rem 3rem;
+        display: flex;
+        margin-right: auto;
+      }
+
+      .entry-title {
+        font-weight: 300;
+        font-size: 1.8rem;
+        padding: 0;
+      
+      }
+      
+      /*last-part*/
+      .site-posts {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: space-evenly;
+      }
+      
+      .site-post {
+        flex: 0 0 10%;
+        border: 2px solid #FF8F57;
+        margin: 2rem 5rem;
+        border-radius: 15px;
+        overflow: hidden;  
+      }
+      
+      .site-post h2 {
+        font-size: 1rem;
+        margin-top: 0.5rem;
+        margin-bottom: 0;
+        padding: 0.5rem 1rem;
+      }
+      
+      .site-post p {
+        padding: 0.2rem;
+      }
+
+
+      /*footer*/
+      .site-footer {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 1.5rem 1rem;
+        background: #329a8f;
+        color: #fff;
+        font-family: 'Lobster', cursive;
+        font-size: 1.2rem;
+      }
+      
+      .site-footer a {
+        color: #fff;
+        font-family: 'Lobster', cursive;
+        font-size: 1rem;
+        text-decoration: none;
+      }
+      
+}
+
+@media (max-width: 1024px){
+    html {
+        box-sizing: border-box;
+        font-family: PT Sans, sans-serif;
+        font-size: 15px;
+        line-height: 1.5;
+    }
+      
+    .site-main{
+        margin: 0;
+    }
+
+    .entry-header{
+        border-radius: 0;
+    }
+
+    .site-logos { 
+        padding: 1rem;    
+    }
+      
+    .site-logo {
+        color: #FF8F57;   
+        font-weight: bold;   
+        display: inline-block;
+        letter-spacing: 1px;
+        font-size: 1.10rem;
+        position: relative;
+    }
+      
+    .site-logo:not(:last-child) {
+        margin-right: 0.5rem;
+    }
+      
+    .site-logo img {
+        width: 7.5rem;
+        height: 7.2rem;
+    }
+
+
+
+    .site-information {
+        width: 100%;
+        display: flex;
+        background:
+        radial-gradient(circle at 100% 50%, transparent 20%, rgba(255,255,255,.3) 21%, rgba(255,255,255,.3) 34%, transparent 35%, transparent),
+        radial-gradient(circle at 0% 50%, transparent 20%, rgba(255,255,255,.3) 21%, rgba(255,255,255,.3) 34%, transparent 35%, transparent) 0 -50px;
+        background-color: #41CFCF;
+        background-size: 75px 100px;
+        color: #fff;
+        text-shadow: 1px 1px 1px rgb(122, 121, 121);    
+      }
+      
+      .site-information-text {
+        flex: 0 0 50%;
+        padding: 4rem 2rem;
+      }
+      
+      .site-information-image {
+        background: url('./images/games-picture.jpg') no-repeat center center;
+        flex: 1 1 100%;
+        margin: 2em;
+        background-size: contain;
+        float: right;
+      }
+}

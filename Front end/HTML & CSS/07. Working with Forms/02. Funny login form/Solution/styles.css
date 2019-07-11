@@ -1,0 +1,95 @@
+html{
+    font-family: Montserrat, sans-serif;
+    line-height: 1.2;
+}
+
+body{
+    background-image: linear-gradient(to right top, #32a7b1, #00a1d0, #0093ec, #677bf1, #bc4fd3);
+    background-repeat: no-repeat;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 700px;
+    border-radius: 0.5em;
+}
+
+.facebook{
+    flex: 0 0 300px;
+    padding: 1em 1em;
+    border-radius: 0.3em;
+    color: white;
+    margin: 1em;
+    background-color: blue;
+}
+
+.google{
+    flex: 0 0 300px;
+    border-radius: 0.3em;
+    box-shadow: 0 2px 2px 2px gray;
+    margin: 1em;
+    padding: 1em 1em;
+    background-color: white;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 0.3em;
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+    padding: 3em;
+    margin: 5em;
+    background-color: white;
+    border-radius: 0.7em;
+    min-width: 22em;
+    min-height: 20em;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+}
+
+.facebook{
+    max-width: 7em;
+}
+
+.google{
+    max-width: 7em;
+}
+
+input{  
+    margin: 0.3em;
+    min-height: 3em;
+    border-radius: 0.3em;
+    background-color: #dfe4ed;
+}
+
+label{
+    margin: 0.3em;
+}
+
+input{
+    min-width: 25em;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 0.5em;
+    min-width: 25em;
+    min-height: 3em;
+    margin-top: 1em;
+}
+
+i{
+    margin-right: 3em;
+}

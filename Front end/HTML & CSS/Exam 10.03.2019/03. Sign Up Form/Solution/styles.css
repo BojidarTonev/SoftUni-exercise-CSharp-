@@ -1,0 +1,61 @@
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    text-align: center;
+    background-color: #e3e5e8;
+    font-family: inherit;
+}
+
+h3 {
+    font-size: 3em;
+}
+
+form {
+    display: inline-block;
+    width: 36em;
+}
+
+input{
+    width: 40em;
+    height: 2.2em;
+    border-radius: 0.3em;
+    border: 1px solid gray;
+    margin: 0.7em 0em 1.5em 0em;
+}
+
+label {
+    padding-bottom: 3px;
+    float: left;
+}
+
+
+h3 {
+    border-bottom: 2px solid #488bf7;
+}
+
+button {
+    width: 43em;
+    height: 3em;
+    background: #488bf7;
+    border: none;
+    border-radius: 0.3em;
+    color: white;
+}
+
+.name-icon input{
+    padding-left: 3em;
+}
+
+.name-icon {
+    position: relative;
+}
+
+.name-icon i{
+    position: absolute;
+    left: 0;
+    top: 7px;
+    padding: 14px 9px;
+    border-right: 1px solid black;
+}

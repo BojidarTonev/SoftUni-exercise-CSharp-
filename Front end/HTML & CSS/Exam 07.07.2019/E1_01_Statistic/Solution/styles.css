@@ -1,0 +1,37 @@
+html {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    font-family: inherit;
+}
+
+.main {
+    background: 
+    linear-gradient(
+      rgba(7, 12, 179, 0.45), 
+      rgba(7, 12, 179, 0.45)
+    ),
+    url('../Requirements-and-Resources/images/image.jpg') no-repeat;
+    margin: 5em auto;
+    height: 352px;
+    width: 1300px;
+    display: flex;
+    flex-wrap: initial;
+    align-items: center;
+    justify-content: baseline;
+}
+
+.card {
+    padding-left: 13em;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card i {
+    font-size: 40px;
+    color: orange;
+}

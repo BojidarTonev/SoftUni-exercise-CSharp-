@@ -1,0 +1,21 @@
+.gallery{
+    text-align: center;
+}
+
+li{
+    background-color: white;
+    border: 0.4rem;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;  
+    padding: 0.8rem;
+    margin: 0.7rem;
+}
+
+img{
+    max-width: 300px;
+}
+
+body{
+    background-color: #d2d7dd;
+}

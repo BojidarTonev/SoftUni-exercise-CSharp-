@@ -1,0 +1,88 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0 20em;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.company-details h2{
+    border-bottom: 1px solid white;
+    padding-bottom: 0.5em;
+}
+
+header{
+    display: flexbox;
+    background-image: url('../Requirements-and-Resources/image/image.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: 90%  90%;
+    top: 0;
+    min-height: 800px;
+    min-width: 1400px;   
+}
+
+.company-details {
+    display: inline-block;
+    margin: 2em;
+    padding: 2em;
+    border: 1px solid gray;
+    box-shadow: 3px 3px gray;
+}
+
+.featured-projects{
+    max-width: 300px;
+    background: linear-gradient(0.25turn, #b3afa4, #ebf8e1);
+    border: 1px solid gray;
+    box-shadow: 3px 3px gray;
+    padding: 3em 0.5em;
+    margin-left: 920px;
+}
+
+.our-services {
+    padding-top: 700px;
+    padding-left: 2em;
+}
+
+.our-services h2 {
+    padding-top: 2em;
+    padding-left: 2em;
+}
+
+li{
+    max-width: 80ch;
+    padding: 0.5em 0.4em;
+    list-style-position: inside;
+
+}
+
+.main{
+    display: flex;
+    background-color: #dbdad7;
+}
+
+.some-numbers {
+    padding-top: 800px;
+    margin-left: 100px;
+    padding-left: 160px;
+    background: #858481;
+}
+
+.big {
+    color: white;
+    font-size: 4em;
+}
+
+.small{
+    color: black;
+}
+
+.part {
+    margin: -10px 0;
+}

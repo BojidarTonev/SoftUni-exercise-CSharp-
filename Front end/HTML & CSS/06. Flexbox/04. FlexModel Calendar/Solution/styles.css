@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    text-align:center;
+}
+
+div, section{
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+}
+
+.day{
+    flex-grow: 1;
+    width: 100px;
+    height: 120px;
+    padding: 10px;
+    
+}
+.workweek{
+    height: 150px;
+    flex-basis: 100%;
+    padding: 10px;
+}
+.weekend{
+    height: 150px;
+    flex-basis: 100%;
+    padding: 20px;
+}
+
+.container{
+    max-width: 65vw;
+}
+
+span{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.notes{
+    flex-direction: column;
+}
+
+.reminders{
+    height: 270px;
+    width: 200px;
+    padding: 20px;
+}

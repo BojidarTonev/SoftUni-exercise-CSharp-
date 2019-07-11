@@ -1,0 +1,26 @@
+html{
+    padding: 50px;
+}
+
+header{
+    display: flex;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+header nav ul{
+    display: flex;
+    list-style: none;
+}
+
+ul a{
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}
+
+li{
+    padding: 20px;
+}
+
+nav{
+    margin-left: auto;
+}

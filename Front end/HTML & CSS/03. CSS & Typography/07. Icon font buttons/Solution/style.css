@@ -1,0 +1,17 @@
+.click {
+    background-color: green;  
+    border-radius: 5px;
+    color: white;
+    padding: .5em;
+    text-decoration: none;
+    margin: 20px;
+  }
+
+  .email {
+    background-color: orange;  
+    border-radius: 5px;
+    color: white;
+    padding: .5em;
+    text-decoration: none;
+    margin: 20px;
+  }

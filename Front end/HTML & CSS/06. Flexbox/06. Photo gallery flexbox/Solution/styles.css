@@ -1,0 +1,24 @@
+.gallery{
+    background: #CCC;
+}
+
+body, ul, li {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+    border: 7px solid;
+    padding: 25px 8px;
+    margin: 25px;
+    width: 100%;
+    height: auto;
+}
+
+li{
+    flex: 1 1 30%;
+}
+
+.gallery ul {
+    justify-content: space-between;
+}

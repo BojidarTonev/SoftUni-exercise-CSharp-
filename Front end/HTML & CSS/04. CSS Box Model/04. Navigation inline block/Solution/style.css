@@ -1,0 +1,27 @@
+html{
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    margin: 50px;
+}
+
+h1{
+    font-family: Georgia, serif;
+    font-size: 1em;
+    line-height: 1.2;
+}
+
+li{
+    margin: 50px 20px 10px;
+    display: inline-block;
+}
+
+a{
+    color: green;
+    text-decoration: none;
+}
+
+nav{
+    margin-left: 40px;
+    
+}

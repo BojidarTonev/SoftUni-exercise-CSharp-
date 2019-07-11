@@ -1,0 +1,36 @@
+html{
+    font: 16px/1.5 Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif;
+
+}
+
+blockquote {
+    border-left: solid rgb(221,221,221);
+    font-style: italic;
+    margin: 1.0em 50px;
+    padding: 0.4em 30px;
+    quotes: "\201C""\201D""\2018""\2019";
+}
+
+#author{
+    text-align-last: right;
+}
+
+tr:nth-child(odd) {background-color: #f2f2f2;}
+
+th {
+    background-color: gray;
+    width: 48%
+}
+
+th, td {
+    border: 1px solid gray;
+}
+
+table {
+    border-collapse: collapse;
+    
+}
