@@ -78,7 +78,7 @@ const eventsController = function () {
                     .then(function () {
                         this.partial('./views/events/edit-event.hbs');
                 });
-            })
+            })  
     }
 
     const postEventEdit = function (context) {
