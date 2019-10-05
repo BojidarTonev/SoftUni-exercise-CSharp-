@@ -5,6 +5,7 @@ const app = require("express")();
 
 require("./config/express")(app);
 require("./config/routes")(app);
+require("./config/database.js")(app);
 
 app.listen(
   config.port,
