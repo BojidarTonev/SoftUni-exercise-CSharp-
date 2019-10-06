@@ -2,6 +2,10 @@ const mongoose = require('mongoose');
 const ObjectId = mongoose.Schema.Types.ObjectId;
 
 const accessorySchema = new mongoose.Schema({
+    id:{
+        type: ObjectId,
+        auto: true
+    },
     name:{  
         type: String,
         required: [true, 'Cant be nameless, sry']

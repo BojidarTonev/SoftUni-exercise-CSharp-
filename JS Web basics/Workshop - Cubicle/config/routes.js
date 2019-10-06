@@ -17,6 +17,9 @@ router.get('/details/:id', cubicController.getDetails)
 
 //accessories controller routes
 router.get('/create-accessory', accessoriesController.getCreateAccessory);
+router.post('/create-accessory', accessoriesController.postCreateAccessory);
+router.get('/attach/accessory/:id', accessoriesController.getAttachAccessory);
+router.post('/attach/accessory', accessoriesController.postAttachAccessory);
 
 //404 route
 router.get('*', homeController.getNotFound);
