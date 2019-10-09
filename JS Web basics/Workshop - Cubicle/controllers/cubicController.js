@@ -1,7 +1,7 @@
 const Cubic = require("../models/cubicModel.js");
 
 exports.getCreate = function(req, res) {
-  res.render("create.hbs", { layout: "main" });
+  res.render("cubes/create.hbs", { layout: "main" });
 };
 
 exports.postCreate = function(req, res) {
@@ -25,6 +25,6 @@ exports.getDetails = function(req, res) {
   Cubic.findById(id, function(err, cube) {
     if(err) console.log(err);
 
-    res.render('details.hbs', {name:cube.name, description: cube.description, imageUrl: cube.imageUrl, difficulty: cube.difficultyLevel, accessories: cube.accessories})
+    res.render('cubes/details.hbs', {name:cube.name, description: cube.description, imageUrl: cube.imageUrl, difficulty: cube.difficultyLevel, accessories: cube.accessories})
   })
 };

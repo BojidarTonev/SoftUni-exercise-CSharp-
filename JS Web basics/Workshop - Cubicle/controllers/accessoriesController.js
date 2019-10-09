@@ -2,7 +2,7 @@ const Accessory = require("../models/Accessory");
 const Cube = require('../models/cubicModel');
 
 exports.getCreateAccessory = function(req, res) {
-  res.render("create-accessory.hbs", { layout: "main" });
+  res.render("accessories/create.hbs", { layout: "main" });
 };
 
 exports.postCreateAccessory = function(req, res) {
@@ -37,7 +37,7 @@ exports.getAttachAccessory = function(req, res){
                 return !cubeAccessories.includes(item._id);
             }).map(item => item.name);
 
-            res.render('attach-accessory.hbs', {name: cube.name, imageUrl: cube.imageUrl, accessories: accessories});   
+            res.render('accessories/attach.hbs', {name: cube.name, imageUrl: cube.imageUrl, accessories: accessories});   
         });
     })
 }

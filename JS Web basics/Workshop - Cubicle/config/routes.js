@@ -11,15 +11,15 @@ router.get('/about', homeController.getAbout);
 //router.post('/search', homeController.postSearch);
 
 //cubes controller routes
-router.get('/create', cubicController.getCreate);
-router.post('/create', cubicController.postCreate);
-router.get('/details/:id', cubicController.getDetails)
+router.get('/cubes/create', cubicController.getCreate);
+router.post('/cubes/create', cubicController.postCreate);
+router.get('/cubes/details/:id', cubicController.getDetails)
 
 //accessories controller routes
-router.get('/create-accessory', accessoriesController.getCreateAccessory);
-router.post('/create-accessory', accessoriesController.postCreateAccessory);
-router.get('/attach/accessory/:id', accessoriesController.getAttachAccessory);
-router.post('/attach/accessory', accessoriesController.postAttachAccessory);
+router.get('/accessories/create', accessoriesController.getCreateAccessory);
+router.post('/accessories/create', accessoriesController.postCreateAccessory);
+router.get('/accessories/attach/:id', accessoriesController.getAttachAccessory);
+router.post('/accessories/attach', accessoriesController.postAttachAccessory);
 
 //404 route
 router.get('*', homeController.getNotFound);
