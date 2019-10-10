@@ -2,9 +2,6 @@ const DATABASE_URL = 'mongodb://localhost:27017/cubic';
 
 const mongoose = require('mongoose');
 
-const Cubic = require('../models/cubicModel');
-const Accessory = require('../models/Accessory');
-
 const connectDb = () => {
     return mongoose.connect(DATABASE_URL, { useNewUrlParser: true, useCreateIndex: true });
 };

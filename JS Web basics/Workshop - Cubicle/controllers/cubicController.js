@@ -1,7 +1,10 @@
 const Cubic = require("../models/cubicModel.js");
+let jwt = require("jsonwebtoken");
 
 exports.getCreate = function(req, res) {
   res.render("cubes/create.hbs", { layout: "main" });
+
+  
 };
 
 exports.postCreate = function(req, res) {
@@ -14,6 +17,7 @@ exports.postCreate = function(req, res) {
 
   cubic.save(function(err, cubic) {
     if (err) console.log(err);
+
   });
 
   res.redirect("/");
@@ -28,3 +32,19 @@ exports.getDetails = function(req, res) {
     res.render('cubes/details.hbs', {name:cube.name, description: cube.description, imageUrl: cube.imageUrl, difficulty: cube.difficultyLevel, accessories: cube.accessories})
   })
 };
+
+exports.getEdit = function(req, res) {
+
+}
+
+exports.postEdit = function(req, res) {
+
+}
+
+exports.getDelete = function (req, res) {
+
+}
+
+exports.postDelete = function (req, res) {
+
+}

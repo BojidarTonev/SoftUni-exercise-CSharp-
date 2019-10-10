@@ -34,6 +34,10 @@ const cubicSchema = new mongoose.Schema({
     },
     accessories: {
         type: Array
+    },
+    creatorId: {
+        type: String,
+        required: [true, 'The cube must have creator']
     }
 });
 
