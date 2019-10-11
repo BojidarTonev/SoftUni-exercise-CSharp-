@@ -1,6 +1,6 @@
 module.exports = {
     development: {
-        port: process.env.PORT || 8000
+        port: process.env.PORT || 4000
     },
     production: {},
     secret: 'taina-maina'

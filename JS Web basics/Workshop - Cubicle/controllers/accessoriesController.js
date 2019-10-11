@@ -2,6 +2,8 @@ const Accessory = require("../models/Accessory");
 const Cube = require('../models/cubicModel');
 
 exports.getCreateAccessory = function(req, res) {
+  req.app.locals.title = 'Create Accessory';
+
   res.render("accessories/create.hbs", { layout: "main" });
 };
 
@@ -24,6 +26,8 @@ exports.postCreateAccessory = function(req, res) {
 };
 
 exports.getAttachAccessory = function(req, res){
+  req.app.locals.title = 'Attach Accessory';
+
     let id = req.params.id;
     Cube.findById(id, function(err, cube){
         if(err) throw err;

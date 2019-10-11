@@ -2,6 +2,7 @@ const express = require('express');
 const hbs = require('express-handlebars');
 const bodyParser = require('body-parser');
 const path = require('path');
+const cookieParser = require('cookie-parser');
 
 module.exports = (app) => {
     app.set('view engine', 'hbs');
@@ -12,6 +13,7 @@ module.exports = (app) => {
 
     app.use(bodyParser.urlencoded( {extended: false} ));
     app.use(bodyParser.json());
+    app.use(cookieParser());
 
     app.use(express.static('static'));
 };

@@ -13,25 +13,25 @@ router.get('/about', homeController.getAbout);
 
 //cubes controller routes
 router.get('/cubes/create', middleware.checkToken, cubicController.getCreate);
-router.post('/cubes/create', cubicController.postCreate);
+router.post('/cubes/create', middleware.checkToken, cubicController.postCreate);
 router.get('/cubes/details/:id', cubicController.getDetails);
-router.get('/cubes/edit/:id', cubicController.getEdit);
-router.post('/cubes/edit/:id', cubicController.postEdit);
-router.get('/cubes/delete/:id', cubicController.getDelete);
-router.post('/cubes/delete/:id', cubicController.postDelete);
+router.get('/cubes/edit/:id', middleware.checkToken, cubicController.getEdit);
+router.post('/cubes/edit/:id', middleware.checkToken, cubicController.postEdit);
+router.get('/cubes/delete/:id', middleware.checkToken, cubicController.getDelete);
+router.post('/cubes/delete/:id', middleware.checkToken, cubicController.postDelete);
 
 //accessories controller routes
-router.get('/accessories/create', accessoriesController.getCreateAccessory);
-router.post('/accessories/create', accessoriesController.postCreateAccessory);
-router.get('/accessories/attach/:id', accessoriesController.getAttachAccessory);
-router.post('/accessories/attach', accessoriesController.postAttachAccessory);
+router.get('/accessories/create', middleware.checkToken, accessoriesController.getCreateAccessory);
+router.post('/accessories/create', middleware.checkToken, accessoriesController.postCreateAccessory);
+router.get('/accessories/attach/:id', middleware.checkToken, accessoriesController.getAttachAccessory);
+router.post('/accessories/attach', middleware.checkToken, accessoriesController.postAttachAccessory);
 
 //users controller routes
 router.get('/users/login', usersController.getLogin);
 router.post('/users/login', usersController.postLogin);
 router.get('/users/register', usersController.getRegister);
 router.post('/users/register', usersController.postRegister);
-router.post('/users/logout', usersController.postLogout);
+router.get('/users/logout', middleware.checkToken, usersController.postLogout);
 
 //404 route
 router.get('*', homeController.getNotFound);

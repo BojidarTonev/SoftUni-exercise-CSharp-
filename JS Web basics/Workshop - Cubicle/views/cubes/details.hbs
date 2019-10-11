@@ -4,6 +4,10 @@
   <p><span>Description:</span> {{description}}</p>
   <p><span>Difficulty level:</span> {{difficulty}}</p>
   <a class="btn" href="/">Back</a>
+  {{#if author}}
+    <a class="btn" href="/cubes/edit/{{id}}">Edit</a>
+    <a class="btn" href="/cubes/delete/{{id}}">Delete</a>
+  {{/if}}
 </div>
 <h2>Accessories</h2>
 <div class="accessories">

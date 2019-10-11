@@ -1,12 +1,12 @@
-let jwt = require("jsonwebtoken");
+const jwt = require("jsonwebtoken");
 const config = require("./config");
+const fs = require('fs');
+const cookieParser = require('cookie-parser');
 
 let checkToken = (req, res, next) => {
   let token = req.headers["x-access-token"] || req.headers["authorization"] || req.headers['cookie']; // Express headers are auto converted to lowercase
   if (token) {
     token = token.split(' ').find(t => t.startsWith('jwt=')).slice(4, token.length);
-    //get user with jwt token
-    //let decoded = jwt.verify(token, config.secret);
 
     if (token.startsWith("Bearer ")) {
       // Remove Bearer from string
@@ -19,10 +19,22 @@ let checkToken = (req, res, next) => {
           success: false,
           message: "Token is not valid"
         });
-      } else {
-        req.decoded = decoded;
-        next();
       }
+      fs.readFile('./static/blacklist.json', 'utf-8', function(err, data){
+        if(err) throw err;
+        let array = JSON.parse(data);
+        let exists = Boolean(array.find(i => i == token));
+
+        if(exists){
+          return res.json({
+            success: false,
+            message: "Token is not valid"
+          });
+        } else {
+          req.decoded = decoded;
+          next();
+        }
+      })
     });
   } else {
     return res.json({
